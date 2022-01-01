@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/development/</link>
+    <description>Recent content in Development on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 25 Jan 2015 09:52:03 +0000</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretty print JSON in Python (snippet)</title>
+      <link>/posts/pretty-print-json-python-snippet/</link>
+      <pubDate>Sun, 25 Jan 2015 09:52:03 +0000</pubDate>
+      
+      <guid>/posts/pretty-print-json-python-snippet/</guid>
+      <description>The below depends on the json Python module to &amp;lsquo;pretty print&amp;rsquo; JSON output in Python. I found this useful when trying to write my script to remove unused Todoist labels.
+import json # This function saves time printing JSON nicely def pj(str): print(json.dumps(json.loads(str.content), indent=4)) return pj(thing_containing_raw_json_here) Note that in my case this was contingent on having used the requests module in the following fashion to already make sure the format is a bit jsonified, if I understand the .</description>
+    </item>
+    
+    <item>
+      <title>Todoist: Remove unused labels</title>
+      <link>/posts/remove-unused-todoist-labels/</link>
+      <pubDate>Sat, 24 Jan 2015 19:18:52 +0000</pubDate>
+      
+      <guid>/posts/remove-unused-todoist-labels/</guid>
+      <description>Want to remove your unused labels/tags from Todoist in bulk? The various GUIs will have you do this one at a time but I have written a small, not very efficient Python script that will do this for you. Here&amp;rsquo;s how it works:
+ You need to provide your API token (Which you can find in Todoist settings) in a file called token.txt Then download or copy the script from my Todoist Remove Unused Tags GitHub repository Just run this using Python and it should work fine  Please bear in mind I&amp;rsquo;ve only tested this on my setup so it could go wrong, although it&amp;rsquo;s highly unlikely.</description>
+    </item>
+    
+    <item>
+      <title>Automator for converting PDF to RTF on Mac OSX (download)</title>
+      <link>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</link>
+      <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
+      
+      <guid>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</guid>
+      <description>I noticed a few people around the web asking how to convert PDFs into RTF (rich text) files, a more useful, accessible format if you are doing a lot of copying and pasting etc. So I&amp;rsquo;ve made a really simple Automator app that will create a RTF on your desktop of any PDF you drop onto it (so I also keep that on my desktop, but it might work from the dock too).</description>
+    </item>
+    
+    <item>
+      <title>XML Schema for Todo/Task lists?</title>
+      <link>/posts/xml-todo-list-task-list/</link>
+      <pubDate>Fri, 11 Jun 2010 19:02:16 +0000</pubDate>
+      
+      <guid>/posts/xml-todo-list-task-list/</guid>
+      <description>[Edit: added a question mark to the end of the post title, in case anyone thinks I&amp;rsquo;ve written something formal&amp;hellip; ideally someone else will because I don&amp;rsquo;t have anything like the know-how :-) ] Okay, forgive me if I&amp;rsquo;ve got that terminology all wrong, but in practical terms I&amp;rsquo;m out of my depth here. I&amp;rsquo;m probably going over very old ground, but has anyone come up with an XML open standard/schema for declaring items on a task list or todo list (or multiple lists)?</description>
+    </item>
+    
+  </channel>
+</rss>

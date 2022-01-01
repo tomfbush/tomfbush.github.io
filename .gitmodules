@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/Mainroad
+[submodule "themes/blank"]
+	path = themes/blank
+	url = https://github.com/Vimux/blank
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt

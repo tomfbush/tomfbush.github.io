@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mouse on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/mouse/</link>
+    <description>Recent content in mouse on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 12 Nov 2010 15:39:29 +0000</lastBuildDate><atom:link href="/tags/mouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technika TKNM110 nano wireless optical mouse driver issue</title>
+      <link>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</link>
+      <pubDate>Fri, 12 Nov 2010 15:39:29 +0000</pubDate>
+      
+      <guid>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</guid>
+      <description>Putting this out there in the hope that it helps someone else who&amp;rsquo;s had issues with this mouse (which is otherwise pretty comfy and good value IMO). I bought it from Tesco (who I think own the Technika brand, but seemingly don&amp;rsquo;t want to support it very well). It wouldn&amp;rsquo;t install cleanly in Vista, claiming at the end of the driver install process that the device was unknown. From what I gather this is a general Vista USB mouse issue, but this was where I found the solution for my own problem: http://channel9.</description>
+    </item>
+    
+  </channel>
+</rss>

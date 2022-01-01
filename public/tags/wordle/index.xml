@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordle on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/wordle/</link>
+    <description>Recent content in wordle on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 23 Dec 2012 16:10:55 +0000</lastBuildDate><atom:link href="/tags/wordle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 Wordle Alternatives</title>
+      <link>/posts/4-wordle-alternatives/</link>
+      <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
+      
+      <guid>/posts/4-wordle-alternatives/</guid>
+      <description>What is Wordle? Wordle is a popular online tool that allows you to input a web page, block of text or list of keywords, and have it spit out a graphic known as a word cloud. Wordle does this job pretty well, but something that gets asked at work quite a lot is if there are any Wordle alternatives out there. In addition, Wordle is a little awkward if all you want is an image file at the end of it that you can paste into a presentation for example, without taking screenshots.</description>
+    </item>
+    
+  </channel>
+</rss>

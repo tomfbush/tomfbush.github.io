@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang='en-gb' ><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<title>Week Commencing Excel Formula | Tom Bush | Data Science | SEO | Web Analytics</title>
+
+<meta name="generator" content="Hugo Eureka 0.8.4" />
+<link rel="stylesheet" href="/css/eureka.min.css">
+<script defer src="/js/eureka.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js"
+   crossorigin></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js"
+   integrity="sha256-uNYoXefWRqv&#43;PsIF/OflNmwtKM4lStn9yrz2gVl6ymo="  crossorigin></script>
+
+
+
+
+
+
+
+
+
+<meta name="description"
+  content="A lot of the data we use is on a daily basis. This is great for more granular insight and for pacing media spend etc. Sometimes however you want to bundle it all up into nice, weekly buckets (often based on &lsquo;week commencing&rsquo;) so that you can look at how weeks affect the sales pattern over the month, for example. This might be harder to see based on daily data. If you need to calculate the week commencing date in Excel (i.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1 ,
+      "name":"Posts",
+      "item":"/posts/"},{
+      "@type": "ListItem",
+      "position": 2 ,
+      "name":"Week Commencing Excel Formula",
+      "item":"/posts/week-commencing-excel/"}]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/posts/week-commencing-excel/"
+    },
+    "headline": "Week Commencing Excel Formula | Tom Bush | Data Science | SEO | Web Analytics","datePublished": "2014-12-17T20:11:45+00:00",
+    "dateModified": "2014-12-17T20:11:45+00:00",
+    "wordCount":  425 ,
+    "publisher": {
+        "@type": "Person",
+        "name": "Tom Bush | Data Science | SEO | Web Analytics",
+        },
+    "description": "A lot of the data we use is on a daily basis. This is great for more granular insight and for pacing media spend etc. Sometimes however you want to bundle it all up into nice, weekly buckets (often based on \u0026lsquo;week commencing\u0026rsquo;) so that you can look at how weeks affect the sales pattern over the month, for example. This might be harder to see based on daily data. If you need to calculate the week commencing date in Excel (i."
+}
+</script><meta property="og:title" content="Week Commencing Excel Formula | Tom Bush | Data Science | SEO | Web Analytics" />
+<meta property="og:type" content="article" />
+
+
+
+<meta property="og:url" content="/posts/week-commencing-excel/" />
+
+
+
+
+<meta property="og:description" content="A lot of the data we use is on a daily basis. This is great for more granular insight and for pacing media spend etc. Sometimes however you want to bundle it all up into nice, weekly buckets (often based on &lsquo;week commencing&rsquo;) so that you can look at how weeks affect the sales pattern over the month, for example. This might be harder to see based on daily data. If you need to calculate the week commencing date in Excel (i." />
+
+
+
+
+<meta property="og:locale" content="en-gb" />
+
+
+
+
+<meta property="og:site_name" content="Tom Bush | Data Science | SEO | Web Analytics" />
+
+
+
+
+
+
+<meta property="article:published_time" content="2014-12-17T20:11:45&#43;00:00" />
+
+
+<meta property="article:modified_time" content="2014-12-17T20:11:45&#43;00:00" />
+
+
+
+<meta property="article:section" content="posts" />
+
+
+<meta property="article:tag" content="Excel" />
+
+<meta property="article:tag" content="formula" />
+
+<meta property="article:tag" content="media" />
+
+<meta property="article:tag" content="week commencing" />
+
+
+
+
+
+<body class="flex flex-col min-h-screen">
+  <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
+    <div class="w-full max-w-screen-xl mx-auto"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="mr-6 text-primary-text text-xl font-bold">Tom Bush | Data Science | SEO | Web Analytics</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+  </header>
+  <main class="flex-grow pt-16">
+    <div class="pl-scrollbar">
+      <div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
+
+
+<div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
+    <div
+        class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
+        <h1 class="font-bold text-3xl text-primary-text">Week Commencing Excel Formula</h1>
+        <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
+    <div class="mr-6 my-2">
+        <i class="fas fa-calendar mr-1"></i>
+        <span>2014-12-17</span>
+    </div>
+    <div class="mr-6 my-2">
+        <i class="fas fa-clock mr-1"></i>
+        <span>2 min read</span>
+    </div>
+    
+    
+    <div class="mr-6 my-2">
+        <i class="fas fa-folder mr-1"></i>
+        
+        <a href="/categories/analytics/" class="hover:text-eureka">analytics</a>
+        
+    </div>
+    
+
+    
+</div>
+        
+        
+        
+
+        <div class="content">
+            <p>A lot of the data we use is on a daily basis. This is great for more granular insight and for pacing media spend etc. Sometimes however you want to bundle it all up into nice, weekly buckets (often based on &lsquo;week commencing&rsquo;) so that you can look at how weeks affect the sales pattern over the month, for example. This might be harder to see based on daily data. If you need to calculate the week commencing date in Excel (i.e. the date of the Monday that another date falls in) then the following week commencing Excel formula is definitely your friend: <code>=B2-WEEKDAY(B2,3)</code> Let’s look at what this means. B2 is the cell that contains the date for which you want to calculate the &ldquo;week commencing” date. As a date in Excel, this has a value (usually in 5 digits, starting with 4, in this day and age). WEEKDAY is a function that returns a number that represents the day of the week in the first argument (in this case our date in question, B2) based on a certain starting point (in this case, 3, which means ‘give Monday a value of 0 and increase that by 1 for each day of the week in order).</p>
+<h2 id="putting-it-together-to-get-the-week-commencing-date">Putting it together to get the week commencing date</h2>
+<p>If it already is Monday (and you want to calculate the week commencing date based on weeks starting on Monday) the formula above says “the date returned by this formula should be equal to the date in B2 minus 0.” This is going to return the date already in B2, which is what we want, because it IS a Monday. If it were a Tuesday, it would say &ldquo;the date in B2 mins 1&rdquo;, which would of course give us the week commencing date of the Monday we want. In this way it increases until minus 6 for the Sunday, and then goes back to 0 the following Monday.</p>
+<h2 id="changing-how-excel-calculates-the-day-of-the-week-value">Changing how Excel calculates the day of the week value</h2>
+<p>If you don&rsquo;t want your formula to use Monday as the start of the week (or use 0 for the value) then you have these options instead of the 3, as the second argument of WEEKDAY() (straight from the Microsoft Excel help file):</p>
+<blockquote>
+<p>1 or omitted returns numbers 1 (Sunday) through 7 (Saturday). Behaves like earlier versions of Excel. 2 returns numbers 1 (Monday) through 7 (Sunday). 3 returns numbers 0 (Monday) through 6 (Sunday).</p>
+</blockquote>
+<p>I don&rsquo;t know of any other more efficient way to calculate week commencing in Excel.</p>
+
+        </div>
+        
+        <div class="my-4">
+    
+    <a href="/tags/excel/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#excel</a>
+    
+    <a href="/tags/formula/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#formula</a>
+    
+    <a href="/tags/media/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#Media</a>
+    
+    <a href="/tags/week-commencing/" class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#week commencing</a>
+    
+</div>
+        
+        
+        
+
+
+        
+        
+        
+        
+<div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
+    <div>
+        
+        <span class="block font-bold">Previous</span>
+        <a href="/posts/remove-unused-todoist-labels/" class="block">Todoist: Remove unused labels</a>
+        
+    </div>
+    <div class="md:text-right mt-4 md:mt-0">
+        
+        <span class="block font-bold">Next</span>
+        <a href="/posts/best-holiday-tips/" class="block">15 Best Holiday Tips Beyond The Packing List</a>
+        
+    </div>
+</div>
+
+        
+
+
+
+    </div>
+    
+
+    
+    
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', ()=>{
+        hljs.initHighlightingOnLoad();
+    })
+</script>
+
+      </div>
+    </div>
+    
+  </main>
+  <footer class="pl-scrollbar">
+    <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text"> Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+  </footer>
+</body>
+
+</html>

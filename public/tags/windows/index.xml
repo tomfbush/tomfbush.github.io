@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/windows/</link>
+    <description>Recent content in windows on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Dec 2012 15:40:54 +0000</lastBuildDate><atom:link href="/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paste as Plain Text In Any App With Puretext, A Free Portable Windows App</title>
+      <link>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</link>
+      <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
+      
+      <guid>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</guid>
+      <description>There are a number of situations that you might want to paste as plain text, i.e. with all formatting removed.
+ Lots of copy and pasting from the web results in formatted text. This is fine if you are only pasting into a search box, URL bar or Notepad, but if you are putting this into Evernote, Word, Powerpoint or other rich text aware applications, you don&amp;rsquo;t always want to keep the source formatting.</description>
+    </item>
+    
+    <item>
+      <title>Windows Update: Same Updates Over And Over Again (FIX)</title>
+      <link>/posts/windows-update-same-updates-over-and-over-again-fix/</link>
+      <pubDate>Mon, 25 Jun 2012 20:25:58 +0000</pubDate>
+      
+      <guid>/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
+      <description>[caption id=&amp;ldquo;attachment_250&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;199&amp;rdquo;] If Windows Update Failed One More Time My Laptop Would Look Like This (I Don&amp;rsquo;t Know Who That Girl Is Though)[/caption] There was me thinking that the Windows Update mechanism was designed to streamline updates to the operating system, eliminating the need to go to a website to download fixes and patches. Ha ha ha. Without realising it, I&amp;rsquo;ve been repeatedly shutting down to install the same Windows Updates on Vista for the past 2 weeks.</description>
+    </item>
+    
+  </channel>
+</rss>

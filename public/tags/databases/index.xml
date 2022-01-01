@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/databases/</link>
+    <description>Recent content in Databases on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 24 Apr 2020 13:05:49 +0000</lastBuildDate><atom:link href="/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to remove duplicate rows in SQL (works with Postgres)</title>
+      <link>/posts/how-to-remove-duplicate-rows-in-sql-works-with-postgres/</link>
+      <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
+      
+      <guid>/posts/how-to-remove-duplicate-rows-in-sql-works-with-postgres/</guid>
+      <description>Note to self more than anything, this snippet was handy for to remove duplicate rows in SQL, that crept into a Postgres database as a result of a dodgy join.
+There are probably more than a couple of ways of doing this but the best example I came up with after reading around is:
+DELETE FROM table_name WHERE ctid NOT IN ( SELECT min(ctid) FROM table_name GROUP BY field1, field2); The reason this works revolves around the ctid field.</description>
+    </item>
+    
+  </channel>
+</rss>

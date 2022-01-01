@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adwords on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/adwords/</link>
+    <description>Recent content in adwords on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 23 Jun 2011 11:50:01 +0000</lastBuildDate><atom:link href="/tags/adwords/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adwords: Segment By Conversion Type</title>
+      <link>/posts/adwords-segment-by-conversion-type/</link>
+      <pubDate>Thu, 23 Jun 2011 11:50:01 +0000</pubDate>
+      
+      <guid>/posts/adwords-segment-by-conversion-type/</guid>
+      <description>You can now segment by conversion type in Adwords (now directly as part of the interface anyway). Previously I think these were only available as part of adding segments to a downloaded AdWords report. Not a lot of metrics showing up at the moment and it doesn&amp;rsquo;t seem to work with all accounts but a welcome additions to the segmentation available through the actual AdWords interface! To enable this go to the usual Dimensions tab, and where you would normally segment by time you can now see Conversion options as above.</description>
+    </item>
+    
+    <item>
+      <title>How to use negative keywords in the Google Adwords Keyword Tool</title>
+      <link>/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</link>
+      <pubDate>Sat, 12 Feb 2011 17:13:03 +0000</pubDate>
+      
+      <guid>/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</guid>
+      <description>I&amp;rsquo;m sure this is common knowledge, but it&amp;rsquo;s worth noting that whilst doing keyword research using Google&amp;rsquo;s external keyword tool you can use negative keywords like so:  This is useful if you want to refine your keyword list before exporting to CSV. Also, when you tick &amp;ldquo;only show ideas closely related to my search terms&amp;rdquo; it tends to return ideas that are almost exactly related to your search terms, which can be too limiting.</description>
+    </item>
+    
+  </channel>
+</rss>

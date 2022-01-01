@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music &amp;amp; Audio on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/music-amp-audio/</link>
+    <description>Recent content in Music &amp;amp; Audio on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 09 Jan 2011 19:15:04 +0000</lastBuildDate><atom:link href="/tags/music-amp-audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convert wav to mp3 online with media.io</title>
+      <link>/posts/convert-wav-to-mp3-online-with-media-io/</link>
+      <pubDate>Sun, 09 Jan 2011 19:15:04 +0000</pubDate>
+      
+      <guid>/posts/convert-wav-to-mp3-online-with-media-io/</guid>
+      <description>A few days ago I needed to convert a short wav file to mp3 format. I wanted to email a recording to a few friends, and the wav filecame in around 15mb, so I figured converting to mp3 would be a good idea, to save time and bandwidth (especially since what I was sending was so trivial that quality didn&amp;rsquo;t matter). I didn&amp;rsquo;t want to install any extra software on my work PC (although Audacity is always installed at home!</description>
+    </item>
+    
+  </channel>
+</rss>

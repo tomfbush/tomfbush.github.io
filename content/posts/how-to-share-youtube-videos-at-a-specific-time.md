@@ -1,0 +1,8 @@
+---
+title: 'How To Share YouTube Videos At A Specific Time'
+date: Sat, 01 Dec 2012 15:05:29 +0000
+draft: false
+tags: ['Quick Tips', 'sharing', 'shortcuts', 'youtube']
+---
+
+\[caption id="attachment\_298" align="alignright" width="300"\]![Share YouTube video at a specific time](http://www.tombush.co.uk/wp-content/uploads/2012/12/Screen-Shot-2012-12-01-at-14.51.37-300x179.png "Share YouTube video at a specific time") Sharing a YouTube video at a specific time; although why you would want to skip any of this song is beyond me.\[/caption\] Okay, so this is nothing new but I still seem to sit through YouTube videos waiting for the one funny bit I've been told about. Imagine all the time that would be saved in the world if people would **just right click on the YouTube video and select "Copy Video URL at current time".** Then you can go away and paste it into an email or Facebook or whatever you normally do, happy in the knowledge you are saving your friends' precious time. Doesn't seem worth it? Doesn't seem important enough? Try this on for size. Imagine if ten of your friends see this, and you save them all 2 mins. Imagine if they all have ten friends who save 2 mins. That's 220 mins saved just because you took the time to share the video at a certain time instead of make them through credits, dross, waffle and naffness. Imagine the possibilities if every mostly okay video that went viral but had rubbish bits had been cut down by a few seconds. We could have saved so much time and done so much more (don't even get me started on why people don't learn keyboard shortcuts) if everyone knew from the start how to share YouTube videos at a specific time.

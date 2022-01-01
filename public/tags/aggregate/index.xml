@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aggregate on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/aggregate/</link>
+    <description>Recent content in aggregate on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 24 Apr 2015 20:47:08 +0000</lastBuildDate><atom:link href="/tags/aggregate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Sumif in R Using The Aggregate Function</title>
+      <link>/posts/sumif-in-r-like-excel-aggregate/</link>
+      <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
+      
+      <guid>/posts/sumif-in-r-like-excel-aggregate/</guid>
+      <description>This is a really simple (i.e. probably even the most basic possible) example of using the built in aggregate() function in R, basically a sumif in R. Given a set of data where column a is the values and column b contains the data by which you wish to group (in this example categorical data with values of a or b):
+&amp;gt; data a b 1 0 a 2 0 a 3 1 b 4 2 a 5 2 b 6 2 a 7 3 b 8 4 b 9 7 b The aggregate function as I have used it below takes the following arguments &amp;ndash; data$a is the column we are applying a function to; by = refers to a list of names and references to aggregate things by (in this case just one column, so the list has a single element); finally the function we are using here is the built in sum (but this could be a function of your own making, or a mean, or whatever):</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/categories/data-science/</link>
+    <description>Recent content in data science on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 24 Nov 2021 23:45:23 +0000</lastBuildDate><atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SMOTE-NC</title>
+      <link>/posts/smote-nc/</link>
+      <pubDate>Wed, 24 Nov 2021 23:45:23 +0000</pubDate>
+      
+      <guid>/posts/smote-nc/</guid>
+      <description> Python library Original paper  </description>
+    </item>
+    
+    <item>
+      <title>Data Science Msc</title>
+      <link>/posts/data-science-msc/</link>
+      <pubDate>Wed, 24 Nov 2021 23:44:18 +0000</pubDate>
+      
+      <guid>/posts/data-science-msc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Time Warping</title>
+      <link>/posts/dynamic-time-warping/</link>
+      <pubDate>Wed, 24 Nov 2021 23:24:06 +0000</pubDate>
+      
+      <guid>/posts/dynamic-time-warping/</guid>
+      <description>What is dynamic time warping (DTM)? Dynamic time warping (DTM) is a technique for matching time series &amp;ndash; or more generally sequences &amp;ndash; of different lengths.
+When was dynamic time warping invented? TODO: 1980s, voice recognition</description>
+    </item>
+    
+  </channel>
+</rss>

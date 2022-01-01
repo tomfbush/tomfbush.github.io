@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WinSXS on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/winsxs/</link>
+    <description>Recent content in WinSXS on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Feb 2014 22:18:05 +0000</lastBuildDate><atom:link href="/tags/winsxs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinSXS cleanup: how to remove GB of files in the WinSXS folder</title>
+      <link>/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/</link>
+      <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
+      
+      <guid>/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/</guid>
+      <description>This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:
+ Go to C:\Windows\system32 Right click on cleanmgr.exe and Run As Administrator Now, the relevant &amp;ldquo;Windows Update Cleanup&amp;rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both Proceed!  For me this worked a treat for WinSXS cleanup.</description>
+    </item>
+    
+  </channel>
+</rss>

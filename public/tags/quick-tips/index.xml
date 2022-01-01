@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quick Tips on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/quick-tips/</link>
+    <description>Recent content in Quick Tips on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Feb 2014 22:18:05 +0000</lastBuildDate><atom:link href="/tags/quick-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinSXS cleanup: how to remove GB of files in the WinSXS folder</title>
+      <link>/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/</link>
+      <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
+      
+      <guid>/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/</guid>
+      <description>This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:
+ Go to C:\Windows\system32 Right click on cleanmgr.exe and Run As Administrator Now, the relevant &amp;ldquo;Windows Update Cleanup&amp;rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both Proceed!  For me this worked a treat for WinSXS cleanup.</description>
+    </item>
+    
+    <item>
+      <title>LOVEFiLM Buffering Problems? Here&#39;s a workaround!</title>
+      <link>/posts/lovefilm-buffering-problems/</link>
+      <pubDate>Sun, 03 Feb 2013 18:03:18 +0000</pubDate>
+      
+      <guid>/posts/lovefilm-buffering-problems/</guid>
+      <description>I&amp;rsquo;ve been having LOVEFiLM buffering problems for some time now. This only started when we changed broadband provider, so I&amp;rsquo;m tempted to say that it&amp;rsquo;s Virgin&amp;rsquo;s traffic shaping that is causing the issues. Anyway, I&amp;rsquo;m not writing to moan about that, I don&amp;rsquo;t know exactly what has caused the problem so I&amp;rsquo;m not pointing my finger at anyone. When in full screen mode, I get LOVEFiLM constantly buffering every minute or so, for 2-5 seconds.</description>
+    </item>
+    
+    <item>
+      <title>WordPress can&#39;t edit category slug</title>
+      <link>/posts/wordpress-cant-edit-category-slug/</link>
+      <pubDate>Mon, 31 Dec 2012 19:36:02 +0000</pubDate>
+      
+      <guid>/posts/wordpress-cant-edit-category-slug/</guid>
+      <description>WordPress can&amp;rsquo;t edit category slug? WordPress wouldn&amp;rsquo;t allow me to edit the category slug &amp;ldquo;online-tools-2&amp;rdquo; down to &amp;ldquo;online-tools&amp;rdquo; no matter what I did. Just a quick shout out here to KAVDesign.net who have posted the answer to the problem I was having&amp;hellip; thanks guys. The answer in my case was to delete the tag that already had the same slug (which also leads to asking what I should be using tags and categories for, how they should differ).</description>
+    </item>
+    
+    <item>
+      <title>How To Share YouTube Videos At A Specific Time</title>
+      <link>/posts/how-to-share-youtube-videos-at-a-specific-time/</link>
+      <pubDate>Sat, 01 Dec 2012 15:05:29 +0000</pubDate>
+      
+      <guid>/posts/how-to-share-youtube-videos-at-a-specific-time/</guid>
+      <description>[caption id=&amp;ldquo;attachment_298&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;]Sharing a YouTube video at a specific time; although why you would want to skip any of this song is beyond me.[/caption] Okay, so this is nothing new but I still seem to sit through YouTube videos waiting for the one funny bit I&amp;rsquo;ve been told about. Imagine all the time that would be saved in the world if people would just right click on the YouTube video and select &amp;ldquo;Copy Video URL at current time&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Evernote Mobile web interface for quick notetaking</title>
+      <link>/posts/evernote-mobile-web-interface-for-quick-notetaking/</link>
+      <pubDate>Fri, 22 Apr 2011 11:52:32 +0000</pubDate>
+      
+      <guid>/posts/evernote-mobile-web-interface-for-quick-notetaking/</guid>
+      <description>[caption id=&amp;ldquo;attachment_145&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;214&amp;rdquo; caption=&amp;ldquo;Evernote Mobile interface could help save time when taking notes&amp;rdquo;][/caption] I&amp;rsquo;ve been using Evernote&amp;rsquo;s Mobile web interface (http://evernote.com/m/) to take notes quickly on desktop PCs. I find the full Evernote interface (desktop client or web) a too distracting if all I want to do is make some plain text notes without reviewing what&amp;rsquo;s already there. (NB: On Ubuntu I found Firefox gave me an XML error when visiting the mobile site, whereas Chrome worked fine.</description>
+    </item>
+    
+  </channel>
+</rss>

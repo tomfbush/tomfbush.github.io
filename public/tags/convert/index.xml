@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>convert on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/convert/</link>
+    <description>Recent content in convert on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 30 Sep 2012 14:04:23 +0000</lastBuildDate><atom:link href="/tags/convert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automator for converting PDF to RTF on Mac OSX (download)</title>
+      <link>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</link>
+      <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
+      
+      <guid>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</guid>
+      <description>I noticed a few people around the web asking how to convert PDFs into RTF (rich text) files, a more useful, accessible format if you are doing a lot of copying and pasting etc. So I&amp;rsquo;ve made a really simple Automator app that will create a RTF on your desktop of any PDF you drop onto it (so I also keep that on my desktop, but it might work from the dock too).</description>
+    </item>
+    
+    <item>
+      <title>Convert wav to mp3 online with media.io</title>
+      <link>/posts/convert-wav-to-mp3-online-with-media-io/</link>
+      <pubDate>Sun, 09 Jan 2011 19:15:04 +0000</pubDate>
+      
+      <guid>/posts/convert-wav-to-mp3-online-with-media-io/</guid>
+      <description>A few days ago I needed to convert a short wav file to mp3 format. I wanted to email a recording to a few friends, and the wav filecame in around 15mb, so I figured converting to mp3 would be a good idea, to save time and bandwidth (especially since what I was sending was so trivial that quality didn&amp;rsquo;t matter). I didn&amp;rsquo;t want to install any extra software on my work PC (although Audacity is always installed at home!</description>
+    </item>
+    
+  </channel>
+</rss>

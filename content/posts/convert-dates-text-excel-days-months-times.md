@@ -1,0 +1,23 @@
+---
+title: 'Convert dates to text in Excel: days, months, times and more'
+date: Wed, 09 Oct 2013 13:55:00 +0000
+draft: false
+tags: ['excel', 'Software']
+---
+
+This article will look at ways to convert dates to text in Excel; that means converting dates into day names, hours, months and more. This is a really simple thing to do but it has a number of uses. As an aside, when you work with data on a daily basis, these sorts of Excel tips come up quite often, and whilst its easy enough to go and find the answers on Excel forums, I thought I would start putting them down here in one place so that I remember them myself, but also so that any interested readers can look super smart to their colleagues by knowing this stuff in advance if they don't already. As a result this will be the first in a series of ongoing Excel posts.
+
+Basic: convert dates into days
+------------------------------
+
+In each case here, we are going to use the following datestamp as an input: `04/10/1990 01:23` We will also assume that it is in cell `A2`. To convert this date into a day, we use the following simple formula, with the very useful TEXT function: `=TEXT(A2,"dddd")` This gives us the following: `Thursday` Hooray! We have converted the date to a day. The TEXT function is given the contents of A2, and told to output it as "dddd", which refers to the full day name. If you want to make the whole thing look a bit more readable, you can combine extra codes in the second part of TEXT, e.g. `=TEXT(A2,"dddd, d mmmm")` which results in `Thursday, 4 October` If you want to know more about the formatting allowed, [Microsoft have a helpful page](http://office.microsoft.com/en-us/excel-help/text-function-HP010062580.aspx) that describes the syntax (and also shows you how to work with times as well as dates).
+
+Intermediate: Use TEXT and the MAX function when updating reports
+-----------------------------------------------------------------
+
+This is no biggie but it is sort of useful. If you do a lot of reports that have a date in column A, and periodically you add new rows of data, then it can be helpful if there is a dashboard or front sheet to show how up to date the data behind it is. If you use the following formula it will just look for the highest number in column A, prefix it with a bit of text, and convert it to something more readable. `="Report updated "&TEXT(MAX(A:A),"dddd, dd mmm.")` This will give you something like `Report updated Thursday, 13 Jun.` This might only save you a small amount of time, but it's a nice easy way of showing how you can make Excel put in a few human touches for you.
+
+Advanced: Using TEXT and COUNTIF to look at hourly trends
+---------------------------------------------------------
+
+I have found this useful in conjunction with social media monitoring software that doesn't have the ability to break down the number of mentions per hour, for example. We will base this on data that looks like this: ![Screen Shot 2013-10-12 at 15.33.58](http://www.tombush.co.uk/wp-content/uploads/2014/02/Screen-Shot-2013-10-12-at-15.33.58.png) Note that this is random data and will look nothing like the actual trend for comments on social media! The next step is to convert the datestamp/timestamp in column A to an hour using the following in column C: `=TEXT(A2,"h")` This will give us a column of numbers ranging from 0 to 23, representing the hour in which the comment was made. Then we add the numbers 0 to 23 in column E, adding the following formula next to all the hours in column E. `=COUNTIF($C:$C,E2)` This formula will count the number of times each hour to its left is found in column C, where we have converted the datestamp to just an hour: ![Screen Shot 2013-10-12 at 15.40.42](http://www.tombush.co.uk/wp-content/uploads/2014/02/Screen-Shot-2013-10-12-at-15.40.42-300x251.png) Now we have the total number of comments made in each hour and all that remains is to make a nice graph to show the hourly trend -- maybe this could be used to help you decide when people are most active on your page/within your category. Again, the data I have used is made up... ![Screen Shot 2013-10-12 at 15.44.59](http://www.tombush.co.uk/wp-content/uploads/2014/02/Screen-Shot-2013-10-12-at-15.44.59.png) I've made an example Excel spreadsheet available with the above data in: [Excel Convert Dates To Text](http://www.tombush.co.uk/wp-content/uploads/2013/10/Excel-Convert-Dates-To-Text.xlsx) Let me know if you have found any other interesting uses of the TEXT function, whether it's basic converting dates to text in Excel as we saw first, or something a bit more juicy.

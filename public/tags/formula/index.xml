@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formula on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/formula/</link>
+    <description>Recent content in formula on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 17 Dec 2014 20:11:45 +0000</lastBuildDate><atom:link href="/tags/formula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week Commencing Excel Formula</title>
+      <link>/posts/week-commencing-excel/</link>
+      <pubDate>Wed, 17 Dec 2014 20:11:45 +0000</pubDate>
+      
+      <guid>/posts/week-commencing-excel/</guid>
+      <description>A lot of the data we use is on a daily basis. This is great for more granular insight and for pacing media spend etc. Sometimes however you want to bundle it all up into nice, weekly buckets (often based on &amp;lsquo;week commencing&amp;rsquo;) so that you can look at how weeks affect the sales pattern over the month, for example. This might be harder to see based on daily data. If you need to calculate the week commencing date in Excel (i.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>greasemonkey on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/greasemonkey/</link>
+    <description>Recent content in greasemonkey on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Nov 2009 16:37:58 +0000</lastBuildDate><atom:link href="/tags/greasemonkey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bit Better RTM tweak - hide empty lists in Remember the Milk</title>
+      <link>/posts/a-bit-better-rtm-tweak-hide-empty-lists-in-remember-the-milk/</link>
+      <pubDate>Sat, 14 Nov 2009 16:37:58 +0000</pubDate>
+      
+      <guid>/posts/a-bit-better-rtm-tweak-hide-empty-lists-in-remember-the-milk/</guid>
+      <description>I use Remember the Milk to keep track of the following:
+ &amp;ldquo;project-less&amp;rdquo; tasks that do not require a structure around them tasks that repeat (not one of the strong points of Basecamp et al) tasks that need to be worked on at more specific times  For personal, non-collaborative tasks, I think RTM is pretty clever. There&amp;rsquo;s no respite though. It gives you quick access to empty lists so you can add things to them easily.</description>
+    </item>
+    
+  </channel>
+</rss>
