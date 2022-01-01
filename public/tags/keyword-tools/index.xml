@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keyword tools on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/keyword-tools/</link>
-    <description>Recent content in keyword tools on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>keyword tools on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/keyword-tools/</link>
+    <description>Recent content in keyword tools on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 12 Feb 2011 17:13:03 +0000</lastBuildDate><atom:link href="/tags/keyword-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2011 17:13:03 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/keyword-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to use negative keywords in the Google Adwords Keyword Tool</title>
-      <link>/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</link>
+      <link>https://tomfbush.github.io/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</link>
       <pubDate>Sat, 12 Feb 2011 17:13:03 +0000</pubDate>
       
-      <guid>/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</guid>
+      <guid>https://tomfbush.github.io/posts/how-to-use-negative-keywords-in-the-google-adwords-keyword-tool/</guid>
       <description>I&amp;rsquo;m sure this is common knowledge, but it&amp;rsquo;s worth noting that whilst doing keyword research using Google&amp;rsquo;s external keyword tool you can use negative keywords like so:  This is useful if you want to refine your keyword list before exporting to CSV. Also, when you tick &amp;ldquo;only show ideas closely related to my search terms&amp;rdquo; it tends to return ideas that are almost exactly related to your search terms, which can be too limiting.</description>
     </item>
     

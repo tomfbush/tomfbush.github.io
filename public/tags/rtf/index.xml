@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rtf on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/rtf/</link>
-    <description>Recent content in rtf on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>rtf on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/rtf/</link>
+    <description>Recent content in rtf on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 30 Sep 2012 14:04:23 +0000</lastBuildDate><atom:link href="/tags/rtf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Sep 2012 14:04:23 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/rtf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automator for converting PDF to RTF on Mac OSX (download)</title>
-      <link>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</link>
+      <link>https://tomfbush.github.io/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</guid>
+      <guid>https://tomfbush.github.io/posts/automator-for-converting-pdf-to-rtf-on-mac-osx/</guid>
       <description>I noticed a few people around the web asking how to convert PDFs into RTF (rich text) files, a more useful, accessible format if you are doing a lot of copying and pasting etc. So I&amp;rsquo;ve made a really simple Automator app that will create a RTF on your desktop of any PDF you drop onto it (so I also keep that on my desktop, but it might work from the dock too).</description>
     </item>
     

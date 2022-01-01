@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/software/</link>
-    <description>Recent content in Software on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>Software on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/software/</link>
+    <description>Recent content in Software on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Feb 2014 21:09:02 +0000</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2014 21:09:02 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bbLean flickering with Chrome/Firefox/other: FIX</title>
-      <link>/posts/bblean-flickering-chrome-firefox-titlebar/</link>
+      <link>https://tomfbush.github.io/posts/bblean-flickering-chrome-firefox-titlebar/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/posts/bblean-flickering-chrome-firefox-titlebar/</guid>
+      <guid>https://tomfbush.github.io/posts/bblean-flickering-chrome-firefox-titlebar/</guid>
       <description>I just loaded up bbLean as a way of speeding up my old Win7 laptop, only to discover that Google Chrome (the app I use the most) was flickering really badly because it has its own skin, and bbLean was trying to apply its own titlebar too. I would have just commented on Nimret&amp;rsquo;s blog to say thanks, but it seems that comments are turned off. I decided to post thanks and the method here instead (but you can read the original here).</description>
     </item>
     
     <item>
       <title>Convert dates to text in Excel: days, months, times and more</title>
-      <link>/posts/convert-dates-text-excel-days-months-times/</link>
+      <link>https://tomfbush.github.io/posts/convert-dates-text-excel-days-months-times/</link>
       <pubDate>Wed, 09 Oct 2013 13:55:00 +0000</pubDate>
       
-      <guid>/posts/convert-dates-text-excel-days-months-times/</guid>
+      <guid>https://tomfbush.github.io/posts/convert-dates-text-excel-days-months-times/</guid>
       <description>This article will look at ways to convert dates to text in Excel; that means converting dates into day names, hours, months and more. This is a really simple thing to do but it has a number of uses. As an aside, when you work with data on a daily basis, these sorts of Excel tips come up quite often, and whilst its easy enough to go and find the answers on Excel forums, I thought I would start putting them down here in one place so that I remember them myself, but also so that any interested readers can look super smart to their colleagues by knowing this stuff in advance if they don&amp;rsquo;t already.</description>
     </item>
     
     <item>
       <title>Unhide Multiple Sheets in Excel</title>
-      <link>/posts/unhide-multiple-sheets-in-excel/</link>
+      <link>https://tomfbush.github.io/posts/unhide-multiple-sheets-in-excel/</link>
       <pubDate>Sun, 13 Jan 2013 10:13:40 +0000</pubDate>
       
-      <guid>/posts/unhide-multiple-sheets-in-excel/</guid>
+      <guid>https://tomfbush.github.io/posts/unhide-multiple-sheets-in-excel/</guid>
       <description>I recently had a need to unhide multiple sheets in Excel (maybe you call them tabs). Whoever sent me the original file had decided to spread their data out over so many extra sheets that it would have taken almost literally minutes to unhide them all. Naturally, I wasted even more time looking for a way to automate this process. I found two pretty good ways to unhide multiple Excel tabs.</description>
     </item>
     
     <item>
       <title>Paste as Plain Text In Any App With Puretext, A Free Portable Windows App</title>
-      <link>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</link>
+      <link>https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</link>
       <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
       
-      <guid>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</guid>
+      <guid>https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</guid>
       <description>There are a number of situations that you might want to paste as plain text, i.e. with all formatting removed.
  Lots of copy and pasting from the web results in formatted text. This is fine if you are only pasting into a search box, URL bar or Notepad, but if you are putting this into Evernote, Word, Powerpoint or other rich text aware applications, you don&amp;rsquo;t always want to keep the source formatting.</description>
     </item>
     
     <item>
       <title>Windows Update: Same Updates Over And Over Again (FIX)</title>
-      <link>/posts/windows-update-same-updates-over-and-over-again-fix/</link>
+      <link>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</link>
       <pubDate>Mon, 25 Jun 2012 20:25:58 +0000</pubDate>
       
-      <guid>/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
       <description>[caption id=&amp;ldquo;attachment_250&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;199&amp;rdquo;] If Windows Update Failed One More Time My Laptop Would Look Like This (I Don&amp;rsquo;t Know Who That Girl Is Though)[/caption] There was me thinking that the Windows Update mechanism was designed to streamline updates to the operating system, eliminating the need to go to a website to download fixes and patches. Ha ha ha. Without realising it, I&amp;rsquo;ve been repeatedly shutting down to install the same Windows Updates on Vista for the past 2 weeks.</description>
     </item>
     
     <item>
       <title>Spotify for Android Crashes Fixed</title>
-      <link>/posts/spotify-for-android-crashes-fixed/</link>
+      <link>https://tomfbush.github.io/posts/spotify-for-android-crashes-fixed/</link>
       <pubDate>Sun, 17 Jun 2012 22:14:48 +0000</pubDate>
       
-      <guid>/posts/spotify-for-android-crashes-fixed/</guid>
+      <guid>https://tomfbush.github.io/posts/spotify-for-android-crashes-fixed/</guid>
       <description>Finally, after months of waiting and an endless stream of complaints from users all over the world, Spotify have updated their Android app and fixed the issues with crashing open opening, crashing when syncing and crashing a few seconds into playing. All these, as you&amp;rsquo;d expect, lead to a pretty poor experience and one that left me feeling a bit ripped off. However, the latest update has a revamped UI that fits nicely with ICS, includes extra features and also DOESN&amp;rsquo;T CRASH.</description>
     </item>
     
     <item>
       <title>&#34;Could not connect to Evernote server&#34; fix</title>
-      <link>/posts/could-not-connect-to-evernote-server-fix/</link>
+      <link>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</link>
       <pubDate>Tue, 07 Jun 2011 22:52:45 +0000</pubDate>
       
-      <guid>/posts/could-not-connect-to-evernote-server-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</guid>
       <description>This is a problem I&amp;rsquo;ve only ever had on Windows 7 but I gather it can affect you on XP too. If Evernote says
  Synchronization failed, could not connect to Evernote server
  and you aren&amp;rsquo;t sure why because everything else seems to work on the internet, go to Tools menu, Options, then the General tab and then click on &amp;ldquo;Log folder&amp;rdquo;. If in recent logs you can see</description>

@@ -1,1242 +1,1197 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>Tags on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/</link>
+    <description>Recent content in Tags on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 Nov 2021 23:45:23 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>categorical variables</title>
-      <link>/tags/categorical-variables/</link>
-      <pubDate>Wed, 24 Nov 2021 23:45:23 +0000</pubDate>
-      
-      <guid>/tags/categorical-variables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>imbalanced data</title>
-      <link>/tags/imbalanced-data/</link>
-      <pubDate>Wed, 24 Nov 2021 23:45:23 +0000</pubDate>
-      
-      <guid>/tags/imbalanced-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>/tags/python/</link>
-      <pubDate>Wed, 24 Nov 2021 23:45:23 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bad decision making</title>
-      <link>/tags/bad-decision-making/</link>
-      <pubDate>Wed, 24 Nov 2021 23:44:18 +0000</pubDate>
-      
-      <guid>/tags/bad-decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>education</title>
-      <link>/tags/education/</link>
-      <pubDate>Wed, 24 Nov 2021 23:44:18 +0000</pubDate>
-      
-      <guid>/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dtw</title>
-      <link>/tags/dtw/</link>
-      <pubDate>Wed, 24 Nov 2021 23:24:06 +0000</pubDate>
-      
-      <guid>/tags/dtw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dynamic time warping</title>
-      <link>/tags/dynamic-time-warping/</link>
-      <pubDate>Wed, 24 Nov 2021 23:24:06 +0000</pubDate>
-      
-      <guid>/tags/dynamic-time-warping/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 24 Apr 2020 13:05:49 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Databases</title>
-      <link>/tags/databases/</link>
+      <link>https://tomfbush.github.io/tags/databases/</link>
       <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
       
-      <guid>/tags/databases/</guid>
+      <guid>https://tomfbush.github.io/tags/databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>duplicates</title>
-      <link>/tags/duplicates/</link>
+      <link>https://tomfbush.github.io/tags/duplicates/</link>
       <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
       
-      <guid>/tags/duplicates/</guid>
+      <guid>https://tomfbush.github.io/tags/duplicates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgres</title>
-      <link>/tags/postgres/</link>
+      <link>https://tomfbush.github.io/tags/postgres/</link>
       <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
       
-      <guid>/tags/postgres/</guid>
+      <guid>https://tomfbush.github.io/tags/postgres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgresql</title>
-      <link>/tags/postgresql/</link>
+      <link>https://tomfbush.github.io/tags/postgresql/</link>
       <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
       
-      <guid>/tags/postgresql/</guid>
+      <guid>https://tomfbush.github.io/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sql</title>
-      <link>/tags/sql/</link>
+      <link>https://tomfbush.github.io/tags/sql/</link>
       <pubDate>Fri, 24 Apr 2020 13:05:49 +0000</pubDate>
       
-      <guid>/tags/sql/</guid>
+      <guid>https://tomfbush.github.io/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gtd</title>
-      <link>/tags/gtd/</link>
+      <link>https://tomfbush.github.io/tags/gtd/</link>
       <pubDate>Sun, 08 Jan 2017 20:15:43 +0000</pubDate>
       
-      <guid>/tags/gtd/</guid>
+      <guid>https://tomfbush.github.io/tags/gtd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>/tags/productivity/</link>
+      <link>https://tomfbush.github.io/tags/productivity/</link>
       <pubDate>Sun, 08 Jan 2017 20:15:43 +0000</pubDate>
       
-      <guid>/tags/productivity/</guid>
+      <guid>https://tomfbush.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>weekly review</title>
-      <link>/tags/weekly-review/</link>
+      <link>https://tomfbush.github.io/tags/weekly-review/</link>
       <pubDate>Sun, 08 Jan 2017 20:15:43 +0000</pubDate>
       
-      <guid>/tags/weekly-review/</guid>
+      <guid>https://tomfbush.github.io/tags/weekly-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>/tags/linux/</link>
+      <link>https://tomfbush.github.io/tags/linux/</link>
       <pubDate>Mon, 28 Mar 2016 12:29:19 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://tomfbush.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mac keyboard</title>
-      <link>/tags/mac-keyboard/</link>
+      <link>https://tomfbush.github.io/tags/mac-keyboard/</link>
       <pubDate>Mon, 28 Mar 2016 12:29:19 +0000</pubDate>
       
-      <guid>/tags/mac-keyboard/</guid>
+      <guid>https://tomfbush.github.io/tags/mac-keyboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>https://tomfbush.github.io/tags/technology/</link>
       <pubDate>Mon, 28 Mar 2016 12:29:19 +0000</pubDate>
       
-      <guid>/tags/technology/</guid>
+      <guid>https://tomfbush.github.io/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>/tags/ubuntu/</link>
+      <link>https://tomfbush.github.io/tags/ubuntu/</link>
       <pubDate>Mon, 28 Mar 2016 12:29:19 +0000</pubDate>
       
-      <guid>/tags/ubuntu/</guid>
+      <guid>https://tomfbush.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aggregate</title>
-      <link>/tags/aggregate/</link>
+      <link>https://tomfbush.github.io/tags/aggregate/</link>
       <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
       
-      <guid>/tags/aggregate/</guid>
+      <guid>https://tomfbush.github.io/tags/aggregate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>excel</title>
-      <link>/tags/excel/</link>
+      <link>https://tomfbush.github.io/tags/excel/</link>
       <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
       
-      <guid>/tags/excel/</guid>
+      <guid>https://tomfbush.github.io/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://tomfbush.github.io/tags/r/</link>
       <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://tomfbush.github.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sumif</title>
-      <link>/tags/sumif/</link>
+      <link>https://tomfbush.github.io/tags/sumif/</link>
       <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
       
-      <guid>/tags/sumif/</guid>
+      <guid>https://tomfbush.github.io/tags/sumif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosting</title>
-      <link>/tags/hosting/</link>
+      <link>https://tomfbush.github.io/tags/hosting/</link>
       <pubDate>Fri, 17 Apr 2015 18:35:12 +0000</pubDate>
       
-      <guid>/tags/hosting/</guid>
+      <guid>https://tomfbush.github.io/tags/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>/tags/html/</link>
+      <link>https://tomfbush.github.io/tags/html/</link>
       <pubDate>Fri, 17 Apr 2015 18:35:12 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://tomfbush.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>websites</title>
-      <link>/tags/websites/</link>
+      <link>https://tomfbush.github.io/tags/websites/</link>
       <pubDate>Fri, 17 Apr 2015 18:35:12 +0000</pubDate>
       
-      <guid>/tags/websites/</guid>
+      <guid>https://tomfbush.github.io/tags/websites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>battery life</title>
-      <link>/tags/battery-life/</link>
+      <link>https://tomfbush.github.io/tags/battery-life/</link>
       <pubDate>Fri, 10 Apr 2015 09:10:05 +0000</pubDate>
       
-      <guid>/tags/battery-life/</guid>
+      <guid>https://tomfbush.github.io/tags/battery-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile Phones</title>
-      <link>/tags/mobile-phones/</link>
+      <link>https://tomfbush.github.io/tags/mobile-phones/</link>
       <pubDate>Fri, 10 Apr 2015 09:10:05 +0000</pubDate>
       
-      <guid>/tags/mobile-phones/</guid>
+      <guid>https://tomfbush.github.io/tags/mobile-phones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>s4</title>
-      <link>/tags/s4/</link>
+      <link>https://tomfbush.github.io/tags/s4/</link>
       <pubDate>Fri, 10 Apr 2015 09:10:05 +0000</pubDate>
       
-      <guid>/tags/s4/</guid>
+      <guid>https://tomfbush.github.io/tags/s4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>https://tomfbush.github.io/tags/development/</link>
       <pubDate>Sun, 25 Jan 2015 09:52:03 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://tomfbush.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>json</title>
-      <link>/tags/json/</link>
+      <link>https://tomfbush.github.io/tags/json/</link>
       <pubDate>Sun, 25 Jan 2015 09:52:03 +0000</pubDate>
       
-      <guid>/tags/json/</guid>
+      <guid>https://tomfbush.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://tomfbush.github.io/tags/python/</link>
+      <pubDate>Sun, 25 Jan 2015 09:52:03 +0000</pubDate>
+      
+      <guid>https://tomfbush.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todoist</title>
-      <link>/tags/todoist/</link>
+      <link>https://tomfbush.github.io/tags/todoist/</link>
       <pubDate>Sat, 24 Jan 2015 19:18:52 +0000</pubDate>
       
-      <guid>/tags/todoist/</guid>
+      <guid>https://tomfbush.github.io/tags/todoist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>formula</title>
-      <link>/tags/formula/</link>
+      <link>https://tomfbush.github.io/tags/formula/</link>
       <pubDate>Wed, 17 Dec 2014 20:11:45 +0000</pubDate>
       
-      <guid>/tags/formula/</guid>
+      <guid>https://tomfbush.github.io/tags/formula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media</title>
-      <link>/tags/media/</link>
+      <link>https://tomfbush.github.io/tags/media/</link>
       <pubDate>Wed, 17 Dec 2014 20:11:45 +0000</pubDate>
       
-      <guid>/tags/media/</guid>
+      <guid>https://tomfbush.github.io/tags/media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>week commencing</title>
-      <link>/tags/week-commencing/</link>
+      <link>https://tomfbush.github.io/tags/week-commencing/</link>
       <pubDate>Wed, 17 Dec 2014 20:11:45 +0000</pubDate>
       
-      <guid>/tags/week-commencing/</guid>
+      <guid>https://tomfbush.github.io/tags/week-commencing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>holidays</title>
-      <link>/tags/holidays/</link>
+      <link>https://tomfbush.github.io/tags/holidays/</link>
       <pubDate>Sun, 28 Sep 2014 18:49:47 +0000</pubDate>
       
-      <guid>/tags/holidays/</guid>
+      <guid>https://tomfbush.github.io/tags/holidays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>/tags/travel/</link>
+      <link>https://tomfbush.github.io/tags/travel/</link>
       <pubDate>Sun, 28 Sep 2014 18:49:47 +0000</pubDate>
       
-      <guid>/tags/travel/</guid>
+      <guid>https://tomfbush.github.io/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cleanup</title>
-      <link>/tags/cleanup/</link>
+      <link>https://tomfbush.github.io/tags/cleanup/</link>
       <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
       
-      <guid>/tags/cleanup/</guid>
+      <guid>https://tomfbush.github.io/tags/cleanup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quick Tips</title>
-      <link>/tags/quick-tips/</link>
+      <link>https://tomfbush.github.io/tags/quick-tips/</link>
       <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
       
-      <guid>/tags/quick-tips/</guid>
+      <guid>https://tomfbush.github.io/tags/quick-tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows 7</title>
-      <link>/tags/windows-7/</link>
+      <link>https://tomfbush.github.io/tags/windows-7/</link>
       <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
       
-      <guid>/tags/windows-7/</guid>
+      <guid>https://tomfbush.github.io/tags/windows-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WinSXS</title>
-      <link>/tags/winsxs/</link>
+      <link>https://tomfbush.github.io/tags/winsxs/</link>
       <pubDate>Sat, 01 Feb 2014 22:18:05 +0000</pubDate>
       
-      <guid>/tags/winsxs/</guid>
+      <guid>https://tomfbush.github.io/tags/winsxs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bbLean</title>
-      <link>/tags/bblean/</link>
+      <link>https://tomfbush.github.io/tags/bblean/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/tags/bblean/</guid>
+      <guid>https://tomfbush.github.io/tags/bblean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fixes</title>
-      <link>/tags/fixes/</link>
+      <link>https://tomfbush.github.io/tags/fixes/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/tags/fixes/</guid>
+      <guid>https://tomfbush.github.io/tags/fixes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Chrome</title>
-      <link>/tags/google-chrome/</link>
+      <link>https://tomfbush.github.io/tags/google-chrome/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/tags/google-chrome/</guid>
+      <guid>https://tomfbush.github.io/tags/google-chrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>/tags/software/</link>
+      <link>https://tomfbush.github.io/tags/software/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>https://tomfbush.github.io/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biddable media</title>
-      <link>/tags/biddable-media/</link>
+      <link>https://tomfbush.github.io/tags/biddable-media/</link>
       <pubDate>Sat, 01 Feb 2014 17:22:37 +0000</pubDate>
       
-      <guid>/tags/biddable-media/</guid>
+      <guid>https://tomfbush.github.io/tags/biddable-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PPC</title>
-      <link>/tags/ppc/</link>
+      <link>https://tomfbush.github.io/tags/ppc/</link>
       <pubDate>Sat, 01 Feb 2014 17:22:37 +0000</pubDate>
       
-      <guid>/tags/ppc/</guid>
+      <guid>https://tomfbush.github.io/tags/ppc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>real-time bidding</title>
-      <link>/tags/real-time-bidding/</link>
+      <link>https://tomfbush.github.io/tags/real-time-bidding/</link>
       <pubDate>Sat, 01 Feb 2014 17:22:37 +0000</pubDate>
       
-      <guid>/tags/real-time-bidding/</guid>
+      <guid>https://tomfbush.github.io/tags/real-time-bidding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rtb</title>
-      <link>/tags/rtb/</link>
+      <link>https://tomfbush.github.io/tags/rtb/</link>
       <pubDate>Sat, 01 Feb 2014 17:22:37 +0000</pubDate>
       
-      <guid>/tags/rtb/</guid>
+      <guid>https://tomfbush.github.io/tags/rtb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cake</title>
-      <link>/tags/cake/</link>
+      <link>https://tomfbush.github.io/tags/cake/</link>
       <pubDate>Sun, 03 Mar 2013 20:43:28 +0000</pubDate>
       
-      <guid>/tags/cake/</guid>
+      <guid>https://tomfbush.github.io/tags/cake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>/tags/food/</link>
+      <link>https://tomfbush.github.io/tags/food/</link>
       <pubDate>Sun, 03 Mar 2013 20:43:28 +0000</pubDate>
       
-      <guid>/tags/food/</guid>
+      <guid>https://tomfbush.github.io/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>/tags/google/</link>
+      <link>https://tomfbush.github.io/tags/google/</link>
       <pubDate>Sun, 03 Mar 2013 20:43:28 +0000</pubDate>
       
-      <guid>/tags/google/</guid>
+      <guid>https://tomfbush.github.io/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>insights</title>
-      <link>/tags/insights/</link>
+      <link>https://tomfbush.github.io/tags/insights/</link>
       <pubDate>Sun, 03 Mar 2013 20:43:28 +0000</pubDate>
       
-      <guid>/tags/insights/</guid>
+      <guid>https://tomfbush.github.io/tags/insights/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LOVEFiLM</title>
-      <link>/tags/lovefilm/</link>
+      <link>https://tomfbush.github.io/tags/lovefilm/</link>
       <pubDate>Sun, 03 Feb 2013 18:03:18 +0000</pubDate>
       
-      <guid>/tags/lovefilm/</guid>
+      <guid>https://tomfbush.github.io/tags/lovefilm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>/tags/blogging/</link>
+      <link>https://tomfbush.github.io/tags/blogging/</link>
       <pubDate>Mon, 31 Dec 2012 19:36:02 +0000</pubDate>
       
-      <guid>/tags/blogging/</guid>
+      <guid>https://tomfbush.github.io/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordpress</title>
-      <link>/tags/wordpress/</link>
+      <link>https://tomfbush.github.io/tags/wordpress/</link>
       <pubDate>Mon, 31 Dec 2012 19:36:02 +0000</pubDate>
       
-      <guid>/tags/wordpress/</guid>
+      <guid>https://tomfbush.github.io/tags/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABCya!</title>
-      <link>/tags/abcya/</link>
+      <link>https://tomfbush.github.io/tags/abcya/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/abcya/</guid>
+      <guid>https://tomfbush.github.io/tags/abcya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>/tags/data/</link>
+      <link>https://tomfbush.github.io/tags/data/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/data/</guid>
+      <guid>https://tomfbush.github.io/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Tools</title>
-      <link>/tags/online-tools/</link>
+      <link>https://tomfbush.github.io/tags/online-tools/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/online-tools/</guid>
+      <guid>https://tomfbush.github.io/tags/online-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagul</title>
-      <link>/tags/tagul/</link>
+      <link>https://tomfbush.github.io/tags/tagul/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/tagul/</guid>
+      <guid>https://tomfbush.github.io/tags/tagul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagxedo</title>
-      <link>/tags/tagxedo/</link>
+      <link>https://tomfbush.github.io/tags/tagxedo/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/tagxedo/</guid>
+      <guid>https://tomfbush.github.io/tags/tagxedo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tools</title>
-      <link>/tags/tools/</link>
+      <link>https://tomfbush.github.io/tags/tools/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/tools/</guid>
+      <guid>https://tomfbush.github.io/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web apps</title>
-      <link>/tags/web-apps/</link>
+      <link>https://tomfbush.github.io/tags/web-apps/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/web-apps/</guid>
+      <guid>https://tomfbush.github.io/tags/web-apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>worditout</title>
-      <link>/tags/worditout/</link>
+      <link>https://tomfbush.github.io/tags/worditout/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/worditout/</guid>
+      <guid>https://tomfbush.github.io/tags/worditout/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wordle</title>
-      <link>/tags/wordle/</link>
+      <link>https://tomfbush.github.io/tags/wordle/</link>
       <pubDate>Sun, 23 Dec 2012 16:10:55 +0000</pubDate>
       
-      <guid>/tags/wordle/</guid>
+      <guid>https://tomfbush.github.io/tags/wordle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chicken</title>
-      <link>/tags/chicken/</link>
+      <link>https://tomfbush.github.io/tags/chicken/</link>
       <pubDate>Wed, 19 Dec 2012 08:02:34 +0000</pubDate>
       
-      <guid>/tags/chicken/</guid>
+      <guid>https://tomfbush.github.io/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sandwich</title>
-      <link>/tags/sandwich/</link>
+      <link>https://tomfbush.github.io/tags/sandwich/</link>
       <pubDate>Wed, 19 Dec 2012 08:02:34 +0000</pubDate>
       
-      <guid>/tags/sandwich/</guid>
+      <guid>https://tomfbush.github.io/tags/sandwich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sweetcorn</title>
-      <link>/tags/sweetcorn/</link>
+      <link>https://tomfbush.github.io/tags/sweetcorn/</link>
       <pubDate>Wed, 19 Dec 2012 08:02:34 +0000</pubDate>
       
-      <guid>/tags/sweetcorn/</guid>
+      <guid>https://tomfbush.github.io/tags/sweetcorn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paste</title>
-      <link>/tags/paste/</link>
+      <link>https://tomfbush.github.io/tags/paste/</link>
       <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
       
-      <guid>/tags/paste/</guid>
+      <guid>https://tomfbush.github.io/tags/paste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plain text</title>
-      <link>/tags/plain-text/</link>
+      <link>https://tomfbush.github.io/tags/plain-text/</link>
       <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
       
-      <guid>/tags/plain-text/</guid>
+      <guid>https://tomfbush.github.io/tags/plain-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows</title>
-      <link>/tags/windows/</link>
+      <link>https://tomfbush.github.io/tags/windows/</link>
       <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
       
-      <guid>/tags/windows/</guid>
+      <guid>https://tomfbush.github.io/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sharing</title>
-      <link>/tags/sharing/</link>
+      <link>https://tomfbush.github.io/tags/sharing/</link>
       <pubDate>Sat, 01 Dec 2012 15:05:29 +0000</pubDate>
       
-      <guid>/tags/sharing/</guid>
+      <guid>https://tomfbush.github.io/tags/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcuts</title>
-      <link>/tags/shortcuts/</link>
+      <link>https://tomfbush.github.io/tags/shortcuts/</link>
       <pubDate>Sat, 01 Dec 2012 15:05:29 +0000</pubDate>
       
-      <guid>/tags/shortcuts/</guid>
+      <guid>https://tomfbush.github.io/tags/shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>/tags/youtube/</link>
+      <link>https://tomfbush.github.io/tags/youtube/</link>
       <pubDate>Sat, 01 Dec 2012 15:05:29 +0000</pubDate>
       
-      <guid>/tags/youtube/</guid>
+      <guid>https://tomfbush.github.io/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clutter</title>
-      <link>/tags/clutter/</link>
+      <link>https://tomfbush.github.io/tags/clutter/</link>
       <pubDate>Mon, 26 Nov 2012 18:30:22 +0000</pubDate>
       
-      <guid>/tags/clutter/</guid>
+      <guid>https://tomfbush.github.io/tags/clutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>consumerism</title>
-      <link>/tags/consumerism/</link>
+      <link>https://tomfbush.github.io/tags/consumerism/</link>
       <pubDate>Mon, 26 Nov 2012 18:30:22 +0000</pubDate>
       
-      <guid>/tags/consumerism/</guid>
+      <guid>https://tomfbush.github.io/tags/consumerism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fast food</title>
-      <link>/tags/fast-food/</link>
+      <link>https://tomfbush.github.io/tags/fast-food/</link>
       <pubDate>Mon, 26 Nov 2012 18:30:22 +0000</pubDate>
       
-      <guid>/tags/fast-food/</guid>
+      <guid>https://tomfbush.github.io/tags/fast-food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new year</title>
-      <link>/tags/new-year/</link>
+      <link>https://tomfbush.github.io/tags/new-year/</link>
       <pubDate>Mon, 26 Nov 2012 18:30:22 +0000</pubDate>
       
-      <guid>/tags/new-year/</guid>
+      <guid>https://tomfbush.github.io/tags/new-year/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resolutions</title>
-      <link>/tags/resolutions/</link>
+      <link>https://tomfbush.github.io/tags/resolutions/</link>
       <pubDate>Mon, 26 Nov 2012 18:30:22 +0000</pubDate>
       
-      <guid>/tags/resolutions/</guid>
+      <guid>https://tomfbush.github.io/tags/resolutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automator</title>
-      <link>/tags/automator/</link>
+      <link>https://tomfbush.github.io/tags/automator/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/tags/automator/</guid>
+      <guid>https://tomfbush.github.io/tags/automator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>convert</title>
-      <link>/tags/convert/</link>
+      <link>https://tomfbush.github.io/tags/convert/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/tags/convert/</guid>
+      <guid>https://tomfbush.github.io/tags/convert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>osx</title>
-      <link>/tags/osx/</link>
+      <link>https://tomfbush.github.io/tags/osx/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/tags/osx/</guid>
+      <guid>https://tomfbush.github.io/tags/osx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pdf</title>
-      <link>/tags/pdf/</link>
+      <link>https://tomfbush.github.io/tags/pdf/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/tags/pdf/</guid>
+      <guid>https://tomfbush.github.io/tags/pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rtf</title>
-      <link>/tags/rtf/</link>
+      <link>https://tomfbush.github.io/tags/rtf/</link>
       <pubDate>Sun, 30 Sep 2012 14:04:23 +0000</pubDate>
       
-      <guid>/tags/rtf/</guid>
+      <guid>https://tomfbush.github.io/tags/rtf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://tomfbush.github.io/tags/education/</link>
+      <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
+      
+      <guid>https://tomfbush.github.io/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mphil</title>
-      <link>/tags/mphil/</link>
+      <link>https://tomfbush.github.io/tags/mphil/</link>
       <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
       
-      <guid>/tags/mphil/</guid>
+      <guid>https://tomfbush.github.io/tags/mphil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phd</title>
-      <link>/tags/phd/</link>
+      <link>https://tomfbush.github.io/tags/phd/</link>
       <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
       
-      <guid>/tags/phd/</guid>
+      <guid>https://tomfbush.github.io/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgraduate</title>
-      <link>/tags/postgraduate/</link>
+      <link>https://tomfbush.github.io/tags/postgraduate/</link>
       <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
       
-      <guid>/tags/postgraduate/</guid>
+      <guid>https://tomfbush.github.io/tags/postgraduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thesis</title>
-      <link>/tags/thesis/</link>
+      <link>https://tomfbush.github.io/tags/thesis/</link>
       <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
       
-      <guid>/tags/thesis/</guid>
+      <guid>https://tomfbush.github.io/tags/thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>/tags/writing/</link>
+      <link>https://tomfbush.github.io/tags/writing/</link>
       <pubDate>Fri, 10 Aug 2012 08:00:20 +0000</pubDate>
       
-      <guid>/tags/writing/</guid>
+      <guid>https://tomfbush.github.io/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vista</title>
-      <link>/tags/vista/</link>
+      <link>https://tomfbush.github.io/tags/vista/</link>
       <pubDate>Mon, 25 Jun 2012 20:25:58 +0000</pubDate>
       
-      <guid>/tags/vista/</guid>
+      <guid>https://tomfbush.github.io/tags/vista/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sandwiches</title>
-      <link>/tags/sandwiches/</link>
+      <link>https://tomfbush.github.io/tags/sandwiches/</link>
       <pubDate>Wed, 20 Jun 2012 13:12:54 +0000</pubDate>
       
-      <guid>/tags/sandwiches/</guid>
+      <guid>https://tomfbush.github.io/tags/sandwiches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tuna</title>
-      <link>/tags/tuna/</link>
+      <link>https://tomfbush.github.io/tags/tuna/</link>
       <pubDate>Wed, 20 Jun 2012 13:12:54 +0000</pubDate>
       
-      <guid>/tags/tuna/</guid>
+      <guid>https://tomfbush.github.io/tags/tuna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>android</title>
-      <link>/tags/android/</link>
+      <link>https://tomfbush.github.io/tags/android/</link>
       <pubDate>Sun, 17 Jun 2012 22:14:48 +0000</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>https://tomfbush.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>crashes</title>
-      <link>/tags/crashes/</link>
+      <link>https://tomfbush.github.io/tags/crashes/</link>
       <pubDate>Sun, 17 Jun 2012 22:14:48 +0000</pubDate>
       
-      <guid>/tags/crashes/</guid>
+      <guid>https://tomfbush.github.io/tags/crashes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify</title>
-      <link>/tags/spotify/</link>
+      <link>https://tomfbush.github.io/tags/spotify/</link>
       <pubDate>Sun, 17 Jun 2012 22:14:48 +0000</pubDate>
       
-      <guid>/tags/spotify/</guid>
+      <guid>https://tomfbush.github.io/tags/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thanks</title>
-      <link>/tags/thanks/</link>
+      <link>https://tomfbush.github.io/tags/thanks/</link>
       <pubDate>Sun, 17 Jun 2012 22:14:48 +0000</pubDate>
       
-      <guid>/tags/thanks/</guid>
+      <guid>https://tomfbush.github.io/tags/thanks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bacon</title>
-      <link>/tags/bacon/</link>
+      <link>https://tomfbush.github.io/tags/bacon/</link>
       <pubDate>Fri, 15 Jun 2012 17:41:50 +0000</pubDate>
       
-      <guid>/tags/bacon/</guid>
+      <guid>https://tomfbush.github.io/tags/bacon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kitchen roll</title>
-      <link>/tags/kitchen-roll/</link>
+      <link>https://tomfbush.github.io/tags/kitchen-roll/</link>
       <pubDate>Fri, 15 Jun 2012 17:41:50 +0000</pubDate>
       
-      <guid>/tags/kitchen-roll/</guid>
+      <guid>https://tomfbush.github.io/tags/kitchen-roll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>microwave</title>
-      <link>/tags/microwave/</link>
+      <link>https://tomfbush.github.io/tags/microwave/</link>
       <pubDate>Fri, 15 Jun 2012 17:41:50 +0000</pubDate>
       
-      <guid>/tags/microwave/</guid>
+      <guid>https://tomfbush.github.io/tags/microwave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paper towels</title>
-      <link>/tags/paper-towels/</link>
+      <link>https://tomfbush.github.io/tags/paper-towels/</link>
       <pubDate>Fri, 15 Jun 2012 17:41:50 +0000</pubDate>
       
-      <guid>/tags/paper-towels/</guid>
+      <guid>https://tomfbush.github.io/tags/paper-towels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lasagne</title>
-      <link>/tags/lasagne/</link>
+      <link>https://tomfbush.github.io/tags/lasagne/</link>
       <pubDate>Tue, 01 May 2012 12:47:07 +0000</pubDate>
       
-      <guid>/tags/lasagne/</guid>
+      <guid>https://tomfbush.github.io/tags/lasagne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Television</title>
-      <link>/tags/television/</link>
+      <link>https://tomfbush.github.io/tags/television/</link>
       <pubDate>Sat, 28 Apr 2012 14:41:49 +0000</pubDate>
       
-      <guid>/tags/television/</guid>
+      <guid>https://tomfbush.github.io/tags/television/</guid>
       <description></description>
     </item>
     
     <item>
       <title>n145</title>
-      <link>/tags/n145/</link>
+      <link>https://tomfbush.github.io/tags/n145/</link>
       <pubDate>Sat, 28 Apr 2012 14:22:01 +0000</pubDate>
       
-      <guid>/tags/n145/</guid>
+      <guid>https://tomfbush.github.io/tags/n145/</guid>
       <description></description>
     </item>
     
     <item>
       <title>netbooks</title>
-      <link>/tags/netbooks/</link>
+      <link>https://tomfbush.github.io/tags/netbooks/</link>
       <pubDate>Sat, 28 Apr 2012 14:22:01 +0000</pubDate>
       
-      <guid>/tags/netbooks/</guid>
+      <guid>https://tomfbush.github.io/tags/netbooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>samsung</title>
-      <link>/tags/samsung/</link>
+      <link>https://tomfbush.github.io/tags/samsung/</link>
       <pubDate>Sat, 28 Apr 2012 14:22:01 +0000</pubDate>
       
-      <guid>/tags/samsung/</guid>
+      <guid>https://tomfbush.github.io/tags/samsung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>board games</title>
-      <link>/tags/board-games/</link>
+      <link>https://tomfbush.github.io/tags/board-games/</link>
       <pubDate>Mon, 09 Apr 2012 14:08:04 +0000</pubDate>
       
-      <guid>/tags/board-games/</guid>
+      <guid>https://tomfbush.github.io/tags/board-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>egypt</title>
-      <link>/tags/egypt/</link>
+      <link>https://tomfbush.github.io/tags/egypt/</link>
       <pubDate>Mon, 09 Apr 2012 14:08:04 +0000</pubDate>
       
-      <guid>/tags/egypt/</guid>
+      <guid>https://tomfbush.github.io/tags/egypt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>history</title>
-      <link>/tags/history/</link>
+      <link>https://tomfbush.github.io/tags/history/</link>
       <pubDate>Mon, 09 Apr 2012 14:08:04 +0000</pubDate>
       
-      <guid>/tags/history/</guid>
+      <guid>https://tomfbush.github.io/tags/history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>activism</title>
-      <link>/tags/activism/</link>
+      <link>https://tomfbush.github.io/tags/activism/</link>
       <pubDate>Sun, 08 Jan 2012 18:08:42 +0000</pubDate>
       
-      <guid>/tags/activism/</guid>
+      <guid>https://tomfbush.github.io/tags/activism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graffiti</title>
-      <link>/tags/graffiti/</link>
+      <link>https://tomfbush.github.io/tags/graffiti/</link>
       <pubDate>Sun, 08 Jan 2012 18:08:42 +0000</pubDate>
       
-      <guid>/tags/graffiti/</guid>
+      <guid>https://tomfbush.github.io/tags/graffiti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyde park</title>
-      <link>/tags/hyde-park/</link>
+      <link>https://tomfbush.github.io/tags/hyde-park/</link>
       <pubDate>Sun, 08 Jan 2012 18:08:42 +0000</pubDate>
       
-      <guid>/tags/hyde-park/</guid>
+      <guid>https://tomfbush.github.io/tags/hyde-park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ice cream</title>
-      <link>/tags/ice-cream/</link>
+      <link>https://tomfbush.github.io/tags/ice-cream/</link>
       <pubDate>Sun, 08 Jan 2012 18:08:42 +0000</pubDate>
       
-      <guid>/tags/ice-cream/</guid>
+      <guid>https://tomfbush.github.io/tags/ice-cream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>/tags/photography/</link>
+      <link>https://tomfbush.github.io/tags/photography/</link>
       <pubDate>Sun, 08 Jan 2012 18:08:42 +0000</pubDate>
       
-      <guid>/tags/photography/</guid>
+      <guid>https://tomfbush.github.io/tags/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugin</title>
-      <link>/tags/hugin/</link>
+      <link>https://tomfbush.github.io/tags/hugin/</link>
       <pubDate>Mon, 17 Oct 2011 21:58:30 +0000</pubDate>
       
-      <guid>/tags/hugin/</guid>
+      <guid>https://tomfbush.github.io/tags/hugin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panorama</title>
-      <link>/tags/panorama/</link>
+      <link>https://tomfbush.github.io/tags/panorama/</link>
       <pubDate>Mon, 17 Oct 2011 21:58:30 +0000</pubDate>
       
-      <guid>/tags/panorama/</guid>
+      <guid>https://tomfbush.github.io/tags/panorama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>richmond castle</title>
-      <link>/tags/richmond-castle/</link>
+      <link>https://tomfbush.github.io/tags/richmond-castle/</link>
       <pubDate>Mon, 17 Oct 2011 21:58:30 +0000</pubDate>
       
-      <guid>/tags/richmond-castle/</guid>
+      <guid>https://tomfbush.github.io/tags/richmond-castle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adwords</title>
-      <link>/tags/adwords/</link>
+      <link>https://tomfbush.github.io/tags/adwords/</link>
       <pubDate>Thu, 23 Jun 2011 11:50:01 +0000</pubDate>
       
-      <guid>/tags/adwords/</guid>
+      <guid>https://tomfbush.github.io/tags/adwords/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paid search</title>
-      <link>/tags/paid-search/</link>
+      <link>https://tomfbush.github.io/tags/paid-search/</link>
       <pubDate>Thu, 23 Jun 2011 11:50:01 +0000</pubDate>
       
-      <guid>/tags/paid-search/</guid>
+      <guid>https://tomfbush.github.io/tags/paid-search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evernote</title>
-      <link>/tags/evernote/</link>
+      <link>https://tomfbush.github.io/tags/evernote/</link>
       <pubDate>Tue, 07 Jun 2011 22:52:45 +0000</pubDate>
       
-      <guid>/tags/evernote/</guid>
+      <guid>https://tomfbush.github.io/tags/evernote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photos</title>
-      <link>/tags/photos/</link>
+      <link>https://tomfbush.github.io/tags/photos/</link>
       <pubDate>Tue, 31 May 2011 22:44:33 +0000</pubDate>
       
-      <guid>/tags/photos/</guid>
+      <guid>https://tomfbush.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>USB</title>
-      <link>/tags/usb/</link>
+      <link>https://tomfbush.github.io/tags/usb/</link>
       <pubDate>Tue, 31 May 2011 22:44:33 +0000</pubDate>
       
-      <guid>/tags/usb/</guid>
+      <guid>https://tomfbush.github.io/tags/usb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile web</title>
-      <link>/tags/mobile-web/</link>
+      <link>https://tomfbush.github.io/tags/mobile-web/</link>
       <pubDate>Fri, 22 Apr 2011 11:52:32 +0000</pubDate>
       
-      <guid>/tags/mobile-web/</guid>
+      <guid>https://tomfbush.github.io/tags/mobile-web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notetaking</title>
-      <link>/tags/notetaking/</link>
+      <link>https://tomfbush.github.io/tags/notetaking/</link>
       <pubDate>Fri, 22 Apr 2011 11:52:32 +0000</pubDate>
       
-      <guid>/tags/notetaking/</guid>
+      <guid>https://tomfbush.github.io/tags/notetaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keyword tools</title>
-      <link>/tags/keyword-tools/</link>
+      <link>https://tomfbush.github.io/tags/keyword-tools/</link>
       <pubDate>Sat, 12 Feb 2011 17:13:03 +0000</pubDate>
       
-      <guid>/tags/keyword-tools/</guid>
+      <guid>https://tomfbush.github.io/tags/keyword-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>audio</title>
-      <link>/tags/audio/</link>
+      <link>https://tomfbush.github.io/tags/audio/</link>
       <pubDate>Sun, 09 Jan 2011 19:15:04 +0000</pubDate>
       
-      <guid>/tags/audio/</guid>
+      <guid>https://tomfbush.github.io/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mp3</title>
-      <link>/tags/mp3/</link>
+      <link>https://tomfbush.github.io/tags/mp3/</link>
       <pubDate>Sun, 09 Jan 2011 19:15:04 +0000</pubDate>
       
-      <guid>/tags/mp3/</guid>
+      <guid>https://tomfbush.github.io/tags/mp3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music &amp;amp; Audio</title>
-      <link>/tags/music-amp-audio/</link>
+      <link>https://tomfbush.github.io/tags/music-amp-audio/</link>
       <pubDate>Sun, 09 Jan 2011 19:15:04 +0000</pubDate>
       
-      <guid>/tags/music-amp-audio/</guid>
+      <guid>https://tomfbush.github.io/tags/music-amp-audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>posterous</title>
-      <link>/tags/posterous/</link>
+      <link>https://tomfbush.github.io/tags/posterous/</link>
       <pubDate>Sat, 04 Dec 2010 11:59:41 +0000</pubDate>
       
-      <guid>/tags/posterous/</guid>
+      <guid>https://tomfbush.github.io/tags/posterous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/tags/themes/</link>
+      <link>https://tomfbush.github.io/tags/themes/</link>
       <pubDate>Sat, 04 Dec 2010 11:59:41 +0000</pubDate>
       
-      <guid>/tags/themes/</guid>
+      <guid>https://tomfbush.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mouse</title>
-      <link>/tags/mouse/</link>
+      <link>https://tomfbush.github.io/tags/mouse/</link>
       <pubDate>Fri, 12 Nov 2010 15:39:29 +0000</pubDate>
       
-      <guid>/tags/mouse/</guid>
+      <guid>https://tomfbush.github.io/tags/mouse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>/tags/music/</link>
+      <link>https://tomfbush.github.io/tags/music/</link>
       <pubDate>Tue, 29 Dec 2009 00:02:13 +0000</pubDate>
       
-      <guid>/tags/music/</guid>
+      <guid>https://tomfbush.github.io/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wildhearts</title>
-      <link>/tags/wildhearts/</link>
+      <link>https://tomfbush.github.io/tags/wildhearts/</link>
       <pubDate>Tue, 29 Dec 2009 00:02:13 +0000</pubDate>
       
-      <guid>/tags/wildhearts/</guid>
+      <guid>https://tomfbush.github.io/tags/wildhearts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>greasemonkey</title>
-      <link>/tags/greasemonkey/</link>
+      <link>https://tomfbush.github.io/tags/greasemonkey/</link>
       <pubDate>Sat, 14 Nov 2009 16:37:58 +0000</pubDate>
       
-      <guid>/tags/greasemonkey/</guid>
+      <guid>https://tomfbush.github.io/tags/greasemonkey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>remember the milk</title>
-      <link>/tags/remember-the-milk/</link>
+      <link>https://tomfbush.github.io/tags/remember-the-milk/</link>
       <pubDate>Sat, 14 Nov 2009 16:37:58 +0000</pubDate>
       
-      <guid>/tags/remember-the-milk/</guid>
+      <guid>https://tomfbush.github.io/tags/remember-the-milk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>basecamp</title>
-      <link>/tags/basecamp/</link>
+      <link>https://tomfbush.github.io/tags/basecamp/</link>
       <pubDate>Thu, 08 Oct 2009 21:30:26 +0000</pubDate>
       
-      <guid>/tags/basecamp/</guid>
+      <guid>https://tomfbush.github.io/tags/basecamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projectpier</title>
-      <link>/tags/projectpier/</link>
+      <link>https://tomfbush.github.io/tags/projectpier/</link>
       <pubDate>Thu, 08 Oct 2009 21:30:26 +0000</pubDate>
       
-      <guid>/tags/projectpier/</guid>
+      <guid>https://tomfbush.github.io/tags/projectpier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>analytics</title>
-      <link>/tags/analytics/</link>
+      <link>https://tomfbush.github.io/tags/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/analytics/</guid>
+      <guid>https://tomfbush.github.io/tags/analytics/</guid>
       <description></description>
     </item>
     

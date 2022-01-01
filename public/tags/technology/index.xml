@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/technology/</link>
-    <description>Recent content in Technology on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>Technology on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/technology/</link>
+    <description>Recent content in Technology on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Mar 2016 12:29:19 +0000</lastBuildDate><atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Mar 2016 12:29:19 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insert Key (or equivalent) on Ubuntu using a Mac keyboard</title>
-      <link>/posts/insert-key-equivalent-ubuntu-using-mac-keyboard/</link>
+      <link>https://tomfbush.github.io/posts/insert-key-equivalent-ubuntu-using-mac-keyboard/</link>
       <pubDate>Mon, 28 Mar 2016 12:29:19 +0000</pubDate>
       
-      <guid>/posts/insert-key-equivalent-ubuntu-using-mac-keyboard/</guid>
+      <guid>https://tomfbush.github.io/posts/insert-key-equivalent-ubuntu-using-mac-keyboard/</guid>
       <description>Pretty niche audience for this one, but posting it for my own benefit as much as anything. Thanks to the original link at Ubuntu Forums for the following hints:
 [fn] + [return] = Insert [fn] + [UPARROW] = Pg Up [fn] + [DOWNARROW]= Pg Down  </description>
     </item>
     
     <item>
       <title>How To Speed Up Your Samsung N145 Plus Netbook</title>
-      <link>/posts/how-to-speed-up-your-samsung-n145-plus-netbook/</link>
+      <link>https://tomfbush.github.io/posts/how-to-speed-up-your-samsung-n145-plus-netbook/</link>
       <pubDate>Sat, 28 Apr 2012 14:22:01 +0000</pubDate>
       
-      <guid>/posts/how-to-speed-up-your-samsung-n145-plus-netbook/</guid>
+      <guid>https://tomfbush.github.io/posts/how-to-speed-up-your-samsung-n145-plus-netbook/</guid>
       <description>[Edited 2020-05-15: Emerge Desktop&amp;rsquo;s website no longer exists so I linked to an archive.org backup] I&amp;rsquo;ve been using a Samsung N145 Plus netbook for a while now. Whilst I am happy with it in general, I do find that sometimes it slows down for no apparent reason. Here are a few tips to help speed up your machine that you might not have thought of.
 Use the right web browser at the right time I find that Google Chrome starts quickest on the N145 Plus, so I use that if I quickly want to check email or look something up.</description>
     </item>
     
     <item>
       <title>Google&#39;s other Android USB Keychain</title>
-      <link>/posts/googles-other-android-usb-keychain/</link>
+      <link>https://tomfbush.github.io/posts/googles-other-android-usb-keychain/</link>
       <pubDate>Tue, 31 May 2011 22:44:33 +0000</pubDate>
       
-      <guid>/posts/googles-other-android-usb-keychain/</guid>
+      <guid>https://tomfbush.github.io/posts/googles-other-android-usb-keychain/</guid>
       <description>Not sure if this is that exciting but there was a post at Search Engine Roundtable about a Google USB stick in the shape of the Android, er, android. Obtained this similar one a few weeks back&amp;hellip;</description>
     </item>
     
     <item>
       <title>Evernote Mobile web interface for quick notetaking</title>
-      <link>/posts/evernote-mobile-web-interface-for-quick-notetaking/</link>
+      <link>https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/</link>
       <pubDate>Fri, 22 Apr 2011 11:52:32 +0000</pubDate>
       
-      <guid>/posts/evernote-mobile-web-interface-for-quick-notetaking/</guid>
+      <guid>https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/</guid>
       <description>[caption id=&amp;ldquo;attachment_145&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;214&amp;rdquo; caption=&amp;ldquo;Evernote Mobile interface could help save time when taking notes&amp;rdquo;][/caption] I&amp;rsquo;ve been using Evernote&amp;rsquo;s Mobile web interface (http://evernote.com/m/) to take notes quickly on desktop PCs. I find the full Evernote interface (desktop client or web) a too distracting if all I want to do is make some plain text notes without reviewing what&amp;rsquo;s already there. (NB: On Ubuntu I found Firefox gave me an XML error when visiting the mobile site, whereas Chrome worked fine.</description>
     </item>
     
     <item>
       <title>Technika TKNM110 nano wireless optical mouse driver issue</title>
-      <link>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</link>
+      <link>https://tomfbush.github.io/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</link>
       <pubDate>Fri, 12 Nov 2010 15:39:29 +0000</pubDate>
       
-      <guid>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</guid>
+      <guid>https://tomfbush.github.io/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</guid>
       <description>Putting this out there in the hope that it helps someone else who&amp;rsquo;s had issues with this mouse (which is otherwise pretty comfy and good value IMO). I bought it from Tesco (who I think own the Technika brand, but seemingly don&amp;rsquo;t want to support it very well). It wouldn&amp;rsquo;t install cleanly in Vista, claiming at the end of the driver install process that the device was unknown. From what I gather this is a general Vista USB mouse issue, but this was where I found the solution for my own problem: http://channel9.</description>
     </item>
     

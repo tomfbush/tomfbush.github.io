@@ -1,45 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>Categories on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/categories/</link>
+    <description>Recent content in Categories on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 Nov 2021 23:45:23 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>data science</title>
-      <link>/categories/data-science/</link>
-      <pubDate>Wed, 24 Nov 2021 23:45:23 +0000</pubDate>
-      
-      <guid>/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 24 Apr 2015 20:47:08 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>analytics</title>
-      <link>/categories/analytics/</link>
+      <link>https://tomfbush.github.io/categories/analytics/</link>
       <pubDate>Fri, 24 Apr 2015 20:47:08 +0000</pubDate>
       
-      <guid>/categories/analytics/</guid>
+      <guid>https://tomfbush.github.io/categories/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>/categories/tech/</link>
+      <link>https://tomfbush.github.io/categories/tech/</link>
       <pubDate>Fri, 10 Apr 2015 09:10:05 +0000</pubDate>
       
-      <guid>/categories/tech/</guid>
+      <guid>https://tomfbush.github.io/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hints and tips</title>
-      <link>/categories/hints-and-tips/</link>
+      <link>https://tomfbush.github.io/categories/hints-and-tips/</link>
       <pubDate>Sun, 28 Sep 2014 18:49:47 +0000</pubDate>
       
-      <guid>/categories/hints-and-tips/</guid>
+      <guid>https://tomfbush.github.io/categories/hints-and-tips/</guid>
       <description></description>
     </item>
     

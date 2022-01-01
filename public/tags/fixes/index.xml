@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fixes on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/fixes/</link>
-    <description>Recent content in fixes on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>fixes on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/fixes/</link>
+    <description>Recent content in fixes on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Feb 2014 21:09:02 +0000</lastBuildDate><atom:link href="/tags/fixes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2014 21:09:02 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/fixes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bbLean flickering with Chrome/Firefox/other: FIX</title>
-      <link>/posts/bblean-flickering-chrome-firefox-titlebar/</link>
+      <link>https://tomfbush.github.io/posts/bblean-flickering-chrome-firefox-titlebar/</link>
       <pubDate>Sat, 01 Feb 2014 21:09:02 +0000</pubDate>
       
-      <guid>/posts/bblean-flickering-chrome-firefox-titlebar/</guid>
+      <guid>https://tomfbush.github.io/posts/bblean-flickering-chrome-firefox-titlebar/</guid>
       <description>I just loaded up bbLean as a way of speeding up my old Win7 laptop, only to discover that Google Chrome (the app I use the most) was flickering really badly because it has its own skin, and bbLean was trying to apply its own titlebar too. I would have just commented on Nimret&amp;rsquo;s blog to say thanks, but it seems that comments are turned off. I decided to post thanks and the method here instead (but you can read the original here).</description>
     </item>
     
     <item>
       <title>Windows Update: Same Updates Over And Over Again (FIX)</title>
-      <link>/posts/windows-update-same-updates-over-and-over-again-fix/</link>
+      <link>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</link>
       <pubDate>Mon, 25 Jun 2012 20:25:58 +0000</pubDate>
       
-      <guid>/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
       <description>[caption id=&amp;ldquo;attachment_250&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;199&amp;rdquo;] If Windows Update Failed One More Time My Laptop Would Look Like This (I Don&amp;rsquo;t Know Who That Girl Is Though)[/caption] There was me thinking that the Windows Update mechanism was designed to streamline updates to the operating system, eliminating the need to go to a website to download fixes and patches. Ha ha ha. Without realising it, I&amp;rsquo;ve been repeatedly shutting down to install the same Windows Updates on Vista for the past 2 weeks.</description>
     </item>
     
     <item>
       <title>&#34;Could not connect to Evernote server&#34; fix</title>
-      <link>/posts/could-not-connect-to-evernote-server-fix/</link>
+      <link>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</link>
       <pubDate>Tue, 07 Jun 2011 22:52:45 +0000</pubDate>
       
-      <guid>/posts/could-not-connect-to-evernote-server-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</guid>
       <description>This is a problem I&amp;rsquo;ve only ever had on Windows 7 but I gather it can affect you on XP too. If Evernote says
  Synchronization failed, could not connect to Evernote server
  and you aren&amp;rsquo;t sure why because everything else seems to work on the internet, go to Tools menu, Options, then the General tab and then click on &amp;ldquo;Log folder&amp;rdquo;. If in recent logs you can see</description>

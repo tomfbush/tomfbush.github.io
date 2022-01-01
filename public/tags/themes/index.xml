@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>themes on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/themes/</link>
-    <description>Recent content in themes on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>themes on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/themes/</link>
+    <description>Recent content in themes on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Dec 2010 11:59:41 +0000</lastBuildDate><atom:link href="/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Dec 2010 11:59:41 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to hide your Posterous profile</title>
-      <link>/posts/how-to-hide-your-posterous-profile/</link>
+      <link>https://tomfbush.github.io/posts/how-to-hide-your-posterous-profile/</link>
       <pubDate>Sat, 04 Dec 2010 11:59:41 +0000</pubDate>
       
-      <guid>/posts/how-to-hide-your-posterous-profile/</guid>
+      <guid>https://tomfbush.github.io/posts/how-to-hide-your-posterous-profile/</guid>
       <description>I&amp;rsquo;m not claiming this makes your Posterous anonymous at all, but if you would like to hide your profile information from being displayed on your Posterous site/blog/whatever:
  Go to &amp;ldquo;Manage&amp;rdquo; Go to &amp;ldquo;Theme my site&amp;rdquo; Click on &amp;ldquo;Advanced&amp;rdquo; and name your new template Expand the editor using the link on the right Remove everything from and including &amp;lt;section id=&amp;ldquo;profile&amp;rdquo;&amp;gt; up to and including the relevant occurrence of  Repeat for other sections if you want to remove contributor lists etc.</description>
     </item>

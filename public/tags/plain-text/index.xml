@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plain text on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/plain-text/</link>
-    <description>Recent content in plain text on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>plain text on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/plain-text/</link>
+    <description>Recent content in plain text on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Dec 2012 15:40:54 +0000</lastBuildDate><atom:link href="/tags/plain-text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Dec 2012 15:40:54 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/plain-text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paste as Plain Text In Any App With Puretext, A Free Portable Windows App</title>
-      <link>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</link>
+      <link>https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</link>
       <pubDate>Sat, 01 Dec 2012 15:40:54 +0000</pubDate>
       
-      <guid>/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</guid>
+      <guid>https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/</guid>
       <description>There are a number of situations that you might want to paste as plain text, i.e. with all formatting removed.
  Lots of copy and pasting from the web results in formatted text. This is fine if you are only pasting into a search box, URL bar or Notepad, but if you are putting this into Evernote, Word, Powerpoint or other rich text aware applications, you don&amp;rsquo;t always want to keep the source formatting.</description>
     </item>

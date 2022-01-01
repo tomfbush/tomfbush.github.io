@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>todoist on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/todoist/</link>
-    <description>Recent content in todoist on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>todoist on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/todoist/</link>
+    <description>Recent content in todoist on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 24 Jan 2015 19:18:52 +0000</lastBuildDate><atom:link href="/tags/todoist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jan 2015 19:18:52 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/todoist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Todoist: Remove unused labels</title>
-      <link>/posts/remove-unused-todoist-labels/</link>
+      <link>https://tomfbush.github.io/posts/remove-unused-todoist-labels/</link>
       <pubDate>Sat, 24 Jan 2015 19:18:52 +0000</pubDate>
       
-      <guid>/posts/remove-unused-todoist-labels/</guid>
+      <guid>https://tomfbush.github.io/posts/remove-unused-todoist-labels/</guid>
       <description>Want to remove your unused labels/tags from Todoist in bulk? The various GUIs will have you do this one at a time but I have written a small, not very efficient Python script that will do this for you. Here&amp;rsquo;s how it works:
  You need to provide your API token (Which you can find in Todoist settings) in a file called token.txt Then download or copy the script from my Todoist Remove Unused Tags GitHub repository Just run this using Python and it should work fine  Please bear in mind I&amp;rsquo;ve only tested this on my setup so it could go wrong, although it&amp;rsquo;s highly unlikely.</description>
     </item>

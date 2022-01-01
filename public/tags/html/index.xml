@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HTML on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/html/</link>
-    <description>Recent content in HTML on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>HTML on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/html/</link>
+    <description>Recent content in HTML on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 17 Apr 2015 18:35:12 +0000</lastBuildDate><atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2015 18:35:12 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top 10 HTML Beginner Resources</title>
-      <link>/posts/html-beginner-resources/</link>
+      <link>https://tomfbush.github.io/posts/html-beginner-resources/</link>
       <pubDate>Fri, 17 Apr 2015 18:35:12 +0000</pubDate>
       
-      <guid>/posts/html-beginner-resources/</guid>
+      <guid>https://tomfbush.github.io/posts/html-beginner-resources/</guid>
       <description>Beginning with HTML Over the past few weeks I&amp;rsquo;ve noticed a few people have been asking me if I had any tips for the best HTML beginner resources. This is something that comes up for myself once in while when needing some bit of HTML reference that I have forgotten through under-use. In order to kill two (three?) birds with one stone I thought I would make a list for myself&amp;ndash;in the form of a post&amp;ndash;that I could share with those people.</description>
     </item>
     
     <item>
       <title>Strip HTML Tags Online with zubrag.com</title>
-      <link>/posts/strip-html-tags-online/</link>
+      <link>https://tomfbush.github.io/posts/strip-html-tags-online/</link>
       <pubDate>Mon, 05 Mar 2012 20:55:07 +0000</pubDate>
       
-      <guid>/posts/strip-html-tags-online/</guid>
+      <guid>https://tomfbush.github.io/posts/strip-html-tags-online/</guid>
       <description>If you&amp;rsquo;re looking for a tool to strip HTML tags online, perhaps the one at zubrag.com can help. Bit of background: I update a website every week or so with a post based on a newsletter that comes in DOC format. I convert it to HTML to extract the images easily (they&amp;rsquo;re saved in a directory), then I upload them to Wordpress. What I&amp;rsquo;m left with is a bit horrible because Word does not clean up HTML before it renders it.</description>
     </item>
     

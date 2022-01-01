@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vista on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/vista/</link>
-    <description>Recent content in vista on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>vista on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/vista/</link>
+    <description>Recent content in vista on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Jun 2012 20:25:58 +0000</lastBuildDate><atom:link href="/tags/vista/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jun 2012 20:25:58 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/vista/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows Update: Same Updates Over And Over Again (FIX)</title>
-      <link>/posts/windows-update-same-updates-over-and-over-again-fix/</link>
+      <link>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</link>
       <pubDate>Mon, 25 Jun 2012 20:25:58 +0000</pubDate>
       
-      <guid>/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/</guid>
       <description>[caption id=&amp;ldquo;attachment_250&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;199&amp;rdquo;] If Windows Update Failed One More Time My Laptop Would Look Like This (I Don&amp;rsquo;t Know Who That Girl Is Though)[/caption] There was me thinking that the Windows Update mechanism was designed to streamline updates to the operating system, eliminating the need to go to a website to download fixes and patches. Ha ha ha. Without realising it, I&amp;rsquo;ve been repeatedly shutting down to install the same Windows Updates on Vista for the past 2 weeks.</description>
     </item>
     
     <item>
       <title>Technika TKNM110 nano wireless optical mouse driver issue</title>
-      <link>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</link>
+      <link>https://tomfbush.github.io/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</link>
       <pubDate>Fri, 12 Nov 2010 15:39:29 +0000</pubDate>
       
-      <guid>/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</guid>
+      <guid>https://tomfbush.github.io/posts/technika-tknm110-nano-wireless-optical-mouse-driver-issue/</guid>
       <description>Putting this out there in the hope that it helps someone else who&amp;rsquo;s had issues with this mouse (which is otherwise pretty comfy and good value IMO). I bought it from Tesco (who I think own the Technika brand, but seemingly don&amp;rsquo;t want to support it very well). It wouldn&amp;rsquo;t install cleanly in Vista, claiming at the end of the driver install process that the device was unknown. From what I gather this is a general Vista USB mouse issue, but this was where I found the solution for my own problem: http://channel9.</description>
     </item>
     

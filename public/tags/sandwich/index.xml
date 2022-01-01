@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sandwich on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/sandwich/</link>
-    <description>Recent content in sandwich on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>sandwich on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/sandwich/</link>
+    <description>Recent content in sandwich on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Dec 2012 08:02:34 +0000</lastBuildDate><atom:link href="/tags/sandwich/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Dec 2012 08:02:34 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/sandwich/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sweetcorn alternative</title>
-      <link>/posts/sweetcorn-alternative/</link>
+      <link>https://tomfbush.github.io/posts/sweetcorn-alternative/</link>
       <pubDate>Wed, 19 Dec 2012 08:02:34 +0000</pubDate>
       
-      <guid>/posts/sweetcorn-alternative/</guid>
+      <guid>https://tomfbush.github.io/posts/sweetcorn-alternative/</guid>
       <description>No sweatcorn for me thanks.</description>
     </item>
     

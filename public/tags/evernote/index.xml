@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evernote on Tom Bush | Data Science | SEO | Web Analytics</title>
-    <link>/tags/evernote/</link>
-    <description>Recent content in evernote on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <title>evernote on Tom Bush | Data Science/SEO</title>
+    <link>https://tomfbush.github.io/tags/evernote/</link>
+    <description>Recent content in evernote on Tom Bush | Data Science/SEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 07 Jun 2011 22:52:45 +0000</lastBuildDate><atom:link href="/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2011 22:52:45 +0000</lastBuildDate><atom:link href="https://tomfbush.github.io/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Could not connect to Evernote server&#34; fix</title>
-      <link>/posts/could-not-connect-to-evernote-server-fix/</link>
+      <link>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</link>
       <pubDate>Tue, 07 Jun 2011 22:52:45 +0000</pubDate>
       
-      <guid>/posts/could-not-connect-to-evernote-server-fix/</guid>
+      <guid>https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/</guid>
       <description>This is a problem I&amp;rsquo;ve only ever had on Windows 7 but I gather it can affect you on XP too. If Evernote says
  Synchronization failed, could not connect to Evernote server
  and you aren&amp;rsquo;t sure why because everything else seems to work on the internet, go to Tools menu, Options, then the General tab and then click on &amp;ldquo;Log folder&amp;rdquo;. If in recent logs you can see</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Evernote Mobile web interface for quick notetaking</title>
-      <link>/posts/evernote-mobile-web-interface-for-quick-notetaking/</link>
+      <link>https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/</link>
       <pubDate>Fri, 22 Apr 2011 11:52:32 +0000</pubDate>
       
-      <guid>/posts/evernote-mobile-web-interface-for-quick-notetaking/</guid>
+      <guid>https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/</guid>
       <description>[caption id=&amp;ldquo;attachment_145&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;214&amp;rdquo; caption=&amp;ldquo;Evernote Mobile interface could help save time when taking notes&amp;rdquo;][/caption] I&amp;rsquo;ve been using Evernote&amp;rsquo;s Mobile web interface (http://evernote.com/m/) to take notes quickly on desktop PCs. I find the full Evernote interface (desktop client or web) a too distracting if all I want to do is make some plain text notes without reviewing what&amp;rsquo;s already there. (NB: On Ubuntu I found Firefox gave me an XML error when visiting the mobile site, whereas Chrome worked fine.</description>
     </item>
     
