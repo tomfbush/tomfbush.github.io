@@ -1,4 +1,4 @@
-baseurl = "https://tomfbush.github.io"
+baseurl = "https://tomfbush.github.io/"
 title = "Tom Bush | Data Science/SEO"
 languageCode = "en-gb"
 paginate = "10" # Number of posts per page
