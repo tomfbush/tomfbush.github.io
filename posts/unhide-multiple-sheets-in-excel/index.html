@@ -1,0 +1,144 @@
+<!doctype html><html lang=en-gb><meta charset=utf-8>
+<meta name=viewport content="width=device-width">
+<title>Unhide Multiple Sheets in Excel | Tom Bush | Data Science/SEO</title>
+<meta name=generator content="Hugo Eureka 0.8.4">
+<link rel=stylesheet href=https://tomfbush.github.io/css/eureka.min.css>
+<script defer src=https://tomfbush.github.io/js/eureka.min.js></script>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link rel=preload href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" as=style onload="this.onload=null,this.rel='stylesheet'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css media=print onload="this.media='all',this.onload=null" crossorigin>
+<script defer src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js crossorigin></script>
+<script defer src=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js integrity="sha256-uNYoXefWRqv+PsIF/OflNmwtKM4lStn9yrz2gVl6ymo=" crossorigin></script>
+<meta name=description content="I recently had a need to unhide multiple sheets in Excel (maybe you call them tabs). Whoever sent me the original file had decided to spread their data out over so many extra sheets that it would have taken almost literally minutes to unhide them all. Naturally, I wasted even more time looking for a way to automate this process. I found two pretty good ways to unhide multiple Excel tabs.">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://tomfbush.github.io/posts/"},{"@type":"ListItem","position":2,"name":"Unhide Multiple Sheets in Excel","item":"https://tomfbush.github.io/posts/unhide-multiple-sheets-in-excel/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://tomfbush.github.io/posts/unhide-multiple-sheets-in-excel/"},"headline":"Unhide Multiple Sheets in Excel | Tom Bush | Data Science\/SEO","datePublished":"2013-01-13T10:13:40+00:00","dateModified":"2013-01-13T10:13:40+00:00","wordCount":603,"publisher":{"@type":"Person","name":"Tom Bush | Data Science/SEO"},"description":"I recently had a need to unhide multiple sheets in Excel (maybe you call them tabs). Whoever sent me the original file had decided to spread their data out over so many extra sheets that it would have taken almost literally minutes to unhide them all. Naturally, I wasted even more time looking for a way to automate this process. I found two pretty good ways to unhide multiple Excel tabs."}</script><meta property="og:title" content="Unhide Multiple Sheets in Excel | Tom Bush | Data Science/SEO">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tomfbush.github.io/posts/unhide-multiple-sheets-in-excel/">
+<meta property="og:description" content="I recently had a need to unhide multiple sheets in Excel (maybe you call them tabs). Whoever sent me the original file had decided to spread their data out over so many extra sheets that it would have taken almost literally minutes to unhide them all. Naturally, I wasted even more time looking for a way to automate this process. I found two pretty good ways to unhide multiple Excel tabs.">
+<meta property="og:locale" content="en-gb">
+<meta property="og:site_name" content="Tom Bush | Data Science/SEO">
+<meta property="article:published_time" content="2013-01-13T10:13:40+00:00">
+<meta property="article:modified_time" content="2013-01-13T10:13:40+00:00">
+<meta property="article:section" content="posts">
+<meta property="article:tag" content="excel">
+<meta property="article:tag" content="Software">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/spotify-for-android-crashes-fixed/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/">
+<body class="flex flex-col min-h-screen">
+<header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
+<div class="w-full max-w-screen-xl mx-auto"><script>let storageColorScheme=localStorage.getItem("lightDarkMode");((storageColorScheme=='Auto'||storageColorScheme==null)&&window.matchMedia("(prefers-color-scheme: dark)").matches||storageColorScheme=="Dark")&&document.getElementsByTagName('html')[0].classList.add('dark')</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+<a href=/ class="mr-6 text-primary-text text-xl font-bold">Tom Bush | Data Science/SEO</a>
+<button id=navbar-btn class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+<i class="fas fa-bars"></i>
+</button>
+<div id=target class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+<div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
+</div>
+<div class=flex>
+<div class="relative pt-4 md:pt-0">
+<div class="cursor-pointer hover:text-eureka" id=lightDarkMode>
+<i class="fas fa-adjust"></i>
+</div>
+<div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id=is-open>
+</div>
+<div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40" id=lightDarkOptions>
+<span class="px-4 py-1 hover:text-eureka" name=Light>Light</span>
+<span class="px-4 py-1 hover:text-eureka" name=Dark>Dark</span>
+<span class="px-4 py-1 hover:text-eureka" name=Auto>Auto</span>
+</div>
+</div>
+</div>
+</div>
+<div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id=is-open-mobile>
+</div>
+</nav>
+<script>let element=document.getElementById('lightDarkMode');storageColorScheme==null||storageColorScheme=='Auto'?document.addEventListener('DOMContentLoaded',()=>{window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change',switchDarkMode)}):storageColorScheme=="Light"?(element.firstElementChild.classList.remove('fa-adjust'),element.firstElementChild.setAttribute("data-icon",'sun'),element.firstElementChild.classList.add('fa-sun')):storageColorScheme=="Dark"&&(element.firstElementChild.classList.remove('fa-adjust'),element.firstElementChild.setAttribute("data-icon",'moon'),element.firstElementChild.classList.add('fa-moon')),document.addEventListener('DOMContentLoaded',()=>{getcolorscheme(),switchBurger()})</script>
+</div>
+</header>
+<main class="flex-grow pt-16">
+<div class=pl-scrollbar>
+<div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
+<div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
+<div class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
+<h1 class="font-bold text-3xl text-primary-text">Unhide Multiple Sheets in Excel</h1>
+<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
+<div class="mr-6 my-2">
+<i class="fas fa-calendar mr-1"></i>
+<span>2013-01-13</span>
+</div>
+<div class="mr-6 my-2">
+<i class="fas fa-clock mr-1"></i>
+<span>3 min read</span>
+</div>
+</div>
+<div class=content>
+<p>I recently had a need to unhide multiple sheets in Excel (maybe you call them tabs). Whoever sent me the original file had decided to spread their data out over so many extra sheets that it would have taken almost literally minutes to unhide them all. Naturally, I wasted even more time looking for a way to automate this process. I found two pretty good ways to unhide multiple Excel tabs.</p>
+<h2 id=unhide-multiple-excel-sheets-using-custom-views>Unhide Multiple Excel Sheets Using Custom Views</h2>
+<p>Okay, this one doesn&rsquo;t require any code and is EASY. It comes from <a href=http://www.accountingweb.com/article/hide-and-unhide-multiple-excel-worksheets-ease/220551>http://www.accountingweb.com/article/hide-and-unhide-multiple-excel-worksheets-ease/220551</a> and works like this:</p>
+<ol>
+<li>Make sure all tabs are visible.</li>
+<li>On the View tab/menu, click on Custom Views.</li>
+<li>Add one and call it &ldquo;Show All Worksheets&rdquo; or similar.</li>
+<li>Make sure to tick the box that mentions hidden settings and press OK.</li>
+</ol>
+<p>You can use the reverse of the above to hide the data sheets again by hiding them first and saving the view as &ldquo;No data&rdquo; or something. The only trouble with this method of revealing all your hidden Excel tabs is that it needs to be repeated for each new file. The following method can help with this.</p>
+<h2 id=macro-to-unhide-multiple-excel-sheets>Macro to Unhide Multiple Excel Sheets</h2>
+<p>This is a bit cooler but a bit more technical.</p>
+<ol>
+<li>Head over to <a href=http://excel.tips.net/T002603_Unhiding_Multiple_Worksheets.html>http://excel.tips.net/T002603_Unhiding_Multiple_Worksheets.html</a> for this one. There are two macros there, the first unhides <em>all</em> worksheets. The second allows you to choose which to unhide</li>
+<li>To add this to a new macro, go to the Developer tab, then Macros, then create a new one. Make sure to create it in your Personal.xlsb so that it&rsquo;s universally available.</li>
+<li>Paste the code in and assign a keyboard shortcut (and/or add it to the ribbon).</li>
+</ol>
+<h2 id=there-you-go-i-havent-gone-into-too-much-detail-here-because-both-the-sites-linked-above-are-great-i-just-thought-id-summarise-the-two-methods-of-unhiding-sheets-together-i-seem-to-recall-an-excel-plugin-that-would-unhide-multiple-sheets-in-excel----this-was-even-easier-than-the-above----but-i-cant-for-the-life-of-me-remember-the-name-other-than-i-think-it-was-something-like-brians-excel-tab-unhider-but-i-cant-find-that-through-google-itd-be-great-if-someone-could-point-it-out-to-me-again-choose-custom-views-on-the-view-tab-or-menuclick-add-and-then-type-a-name-for-your-custom-view-such-as-all-sheets-and-then-click-oknext-hide-any-worksheets-as-needed-and-then-create-a-second-view-titled-presentation-view-or-a-name-of-your-choosing>There you go. I haven&rsquo;t gone into too much detail here because both the sites linked above are great, I just thought I&rsquo;d summarise the two methods of unhiding sheets together. I seem to recall an Excel plugin that would unhide multiple sheets in Excel &ndash; this was even easier than the above &ndash; but I can&rsquo;t for the life of me remember the name, other than I think it was something like &ldquo;Brian&rsquo;s Excel Tab Unhider&rdquo;, but I can&rsquo;t find that through Google. It&rsquo;d be great if someone could point it out to me again&mldr; Choose Custom Views on the View tab or menu.Click Add, and then type a name for your custom view, such as All Sheets, and then click OK. Next, hide any worksheets as needed and then create a second view titled Presentation View, or a name of your choosing.</h2>
+<h3 id=comments>Comments:</h3>
+<h4 id=heading></h4>
+<p><a href=http://www.excelformulaslist.com title=tobi.hossner@gmail.com>Tobi @ Excel Formula</a> - Mar 2, 2013</p>
+<p>Tom, you did the homework for me! I just recieved dozen files from client each had tons hidden sheets. Quick google search and whoala. Problem solved. Thank you!</p>
+<p>Hi Tobi, glad I could help :) Nice site by the way, Excel is pretty much the only tool I use at work so I&rsquo;ve already found a few ways to save time/make life easier. Thanks!</p>
+<p>I can&rsquo;t live without Excel :) so sad, isn&rsquo;t it? Thank you, I haven&rsquo;t gone through many other articles of yours yet, but I surely will. Quick scan through told me there are a lot I could learn from you.</p>
+<p>Haha, not sure I have much to teach but kind of you anyway :-) take care</p>
+<p>WordPress interview questions WordPress is a free and open-source content management system based on PHP & MySQL. Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores.</p>
+</div>
+<div class=my-4>
+<a href=https://tomfbush.github.io/tags/excel/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#excel</a>
+<a href=https://tomfbush.github.io/tags/software/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#Software</a>
+</div>
+<div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
+<div>
+<span class="block font-bold">Previous</span>
+<a href=https://tomfbush.github.io/posts/lovefilm-buffering-problems/ class=block>LOVEFiLM Buffering Problems? Here's a workaround!</a>
+</div>
+<div class="md:text-right mt-4 md:mt-0">
+<span class="block font-bold">Next</span>
+<a href=https://tomfbush.github.io/posts/wordpress-cant-edit-category-slug/ class=block>WordPress can't edit category slug</a>
+</div>
+</div>
+</div>
+<div class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded p-6">
+<h2 class="text-lg font-semibold mb-4">See Also</h2>
+<div class=content>
+<a href=https://tomfbush.github.io/posts/paste-as-plain-text-in-any-app-with-puretext-a-free-portable-windows-app/>Paste as Plain Text In Any App With Puretext, A Free Portable Windows App</a>
+<br>
+<a href=https://tomfbush.github.io/posts/windows-update-same-updates-over-and-over-again-fix/>Windows Update: Same Updates Over And Over Again (FIX)</a>
+<br>
+<a href=https://tomfbush.github.io/posts/spotify-for-android-crashes-fixed/>Spotify for Android Crashes Fixed</a>
+<br>
+<a href=https://tomfbush.github.io/posts/could-not-connect-to-evernote-server-fix/>"Could not connect to Evernote server" fix</a>
+<br>
+</div>
+</div>
+</div>
+<script>document.addEventListener('DOMContentLoaded',()=>{hljs.initHighlightingOnLoad()})</script>
+</div>
+</div>
+</main>
+<footer class=pl-scrollbar>
+<div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
+<p class="text-sm text-tertiary-text"> Powered by the <a href=https://github.com/wangchucheng/hugo-eureka class=hover:text-eureka>Eureka</a> theme for <a href=https://gohugo.io class=hover:text-eureka>Hugo</a></p>
+</div></div>
+</footer>
+</body>
+</html>

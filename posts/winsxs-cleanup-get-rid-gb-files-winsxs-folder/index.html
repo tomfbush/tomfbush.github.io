@@ -1,0 +1,132 @@
+<!doctype html><html lang=en-gb><meta charset=utf-8>
+<meta name=viewport content="width=device-width">
+<title>WinSXS cleanup: how to remove GB of files in the WinSXS folder | Tom Bush | Data Science/SEO</title>
+<meta name=generator content="Hugo Eureka 0.8.4">
+<link rel=stylesheet href=https://tomfbush.github.io/css/eureka.min.css>
+<script defer src=https://tomfbush.github.io/js/eureka.min.js></script>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link rel=preload href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" as=style onload="this.onload=null,this.rel='stylesheet'">
+<link rel=stylesheet href=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css media=print onload="this.media='all',this.onload=null" crossorigin>
+<script defer src=https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js crossorigin></script>
+<script defer src=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js integrity="sha256-uNYoXefWRqv+PsIF/OflNmwtKM4lStn9yrz2gVl6ymo=" crossorigin></script>
+<meta name=description content="This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:
+ Go to C:\Windows\system32 Right click on cleanmgr.exe and Run As Administrator Now, the relevant &ldquo;Windows Update Cleanup&rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both Proceed!  For me this worked a treat for WinSXS cleanup.">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://tomfbush.github.io/posts/"},{"@type":"ListItem","position":2,"name":"WinSXS cleanup: how to remove GB of files in the WinSXS folder","item":"https://tomfbush.github.io/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://tomfbush.github.io/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/"},"headline":"WinSXS cleanup: how to remove GB of files in the WinSXS folder | Tom Bush | Data Science\/SEO","datePublished":"2014-02-01T22:18:05+00:00","dateModified":"2014-02-01T22:18:05+00:00","wordCount":73,"publisher":{"@type":"Person","name":"Tom Bush | Data Science/SEO"},"description":"This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:\n Go to C:\\Windows\\system32 Right click on cleanmgr.exe and Run As Administrator Now, the relevant \u0026ldquo;Windows Update Cleanup\u0026rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both Proceed!  For me this worked a treat for WinSXS cleanup."}</script><meta property="og:title" content="WinSXS cleanup: how to remove GB of files in the WinSXS folder | Tom Bush | Data Science/SEO">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tomfbush.github.io/posts/winsxs-cleanup-get-rid-gb-files-winsxs-folder/">
+<meta property="og:description" content="This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:
+ Go to C:\Windows\system32 Right click on cleanmgr.exe and Run As Administrator Now, the relevant &ldquo;Windows Update Cleanup&rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both Proceed!  For me this worked a treat for WinSXS cleanup.">
+<meta property="og:locale" content="en-gb">
+<meta property="og:site_name" content="Tom Bush | Data Science/SEO">
+<meta property="article:published_time" content="2014-02-01T22:18:05+00:00">
+<meta property="article:modified_time" content="2014-02-01T22:18:05+00:00">
+<meta property="article:section" content="posts">
+<meta property="article:tag" content="cleanup">
+<meta property="article:tag" content="Quick Tips">
+<meta property="article:tag" content="Windows 7">
+<meta property="article:tag" content="WinSXS">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/lovefilm-buffering-problems/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/wordpress-cant-edit-category-slug/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/how-to-share-youtube-videos-at-a-specific-time/">
+<meta property="og:see_also" content="https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/">
+<body class="flex flex-col min-h-screen">
+<header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
+<div class="w-full max-w-screen-xl mx-auto"><script>let storageColorScheme=localStorage.getItem("lightDarkMode");((storageColorScheme=='Auto'||storageColorScheme==null)&&window.matchMedia("(prefers-color-scheme: dark)").matches||storageColorScheme=="Dark")&&document.getElementsByTagName('html')[0].classList.add('dark')</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+<a href=/ class="mr-6 text-primary-text text-xl font-bold">Tom Bush | Data Science/SEO</a>
+<button id=navbar-btn class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+<i class="fas fa-bars"></i>
+</button>
+<div id=target class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+<div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
+</div>
+<div class=flex>
+<div class="relative pt-4 md:pt-0">
+<div class="cursor-pointer hover:text-eureka" id=lightDarkMode>
+<i class="fas fa-adjust"></i>
+</div>
+<div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id=is-open>
+</div>
+<div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40" id=lightDarkOptions>
+<span class="px-4 py-1 hover:text-eureka" name=Light>Light</span>
+<span class="px-4 py-1 hover:text-eureka" name=Dark>Dark</span>
+<span class="px-4 py-1 hover:text-eureka" name=Auto>Auto</span>
+</div>
+</div>
+</div>
+</div>
+<div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id=is-open-mobile>
+</div>
+</nav>
+<script>let element=document.getElementById('lightDarkMode');storageColorScheme==null||storageColorScheme=='Auto'?document.addEventListener('DOMContentLoaded',()=>{window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change',switchDarkMode)}):storageColorScheme=="Light"?(element.firstElementChild.classList.remove('fa-adjust'),element.firstElementChild.setAttribute("data-icon",'sun'),element.firstElementChild.classList.add('fa-sun')):storageColorScheme=="Dark"&&(element.firstElementChild.classList.remove('fa-adjust'),element.firstElementChild.setAttribute("data-icon",'moon'),element.firstElementChild.classList.add('fa-moon')),document.addEventListener('DOMContentLoaded',()=>{getcolorscheme(),switchBurger()})</script>
+</div>
+</header>
+<main class="flex-grow pt-16">
+<div class=pl-scrollbar>
+<div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
+<div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
+<div class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
+<h1 class="font-bold text-3xl text-primary-text">WinSXS cleanup: how to remove GB of files in the WinSXS folder</h1>
+<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
+<div class="mr-6 my-2">
+<i class="fas fa-calendar mr-1"></i>
+<span>2014-02-01</span>
+</div>
+<div class="mr-6 my-2">
+<i class="fas fa-clock mr-1"></i>
+<span>1 min read</span>
+</div>
+</div>
+<div class=content>
+<p>This post is a quick one on WinSXS cleanup, and it works (for me). None of the instructions I found online helped me, including the KB2852386 fix on Windows update. Try this:</p>
+<ul>
+<li>Go to C:\Windows\system32</li>
+<li>Right click on cleanmgr.exe and Run As Administrator</li>
+<li>Now, the relevant &ldquo;Windows Update Cleanup&rdquo; option and another for cleaning up Service Pack backups should appear. Tick them both</li>
+<li>Proceed!</li>
+</ul>
+<p>For me this worked a treat for WinSXS cleanup.</p>
+</div>
+<div class=my-4>
+<a href=https://tomfbush.github.io/tags/cleanup/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#cleanup</a>
+<a href=https://tomfbush.github.io/tags/quick-tips/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#Quick Tips</a>
+<a href=https://tomfbush.github.io/tags/windows-7/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#Windows 7</a>
+<a href=https://tomfbush.github.io/tags/winsxs/ class="inline-block bg-tertiary-bg text-sm rounded px-3 py-1 my-1 mr-2 hover:text-eureka">#WinSXS</a>
+</div>
+<div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
+<div>
+<span class="block font-bold">Previous</span>
+<a href=https://tomfbush.github.io/posts/tom-bush-wikipedia/ class=block>Tom Bush wikipedia</a>
+</div>
+<div class="md:text-right mt-4 md:mt-0">
+<span class="block font-bold">Next</span>
+<a href=https://tomfbush.github.io/posts/bblean-flickering-chrome-firefox-titlebar/ class=block>bbLean flickering with Chrome/Firefox/other: FIX</a>
+</div>
+</div>
+</div>
+<div class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded p-6">
+<h2 class="text-lg font-semibold mb-4">See Also</h2>
+<div class=content>
+<a href=https://tomfbush.github.io/posts/lovefilm-buffering-problems/>LOVEFiLM Buffering Problems? Here's a workaround!</a>
+<br>
+<a href=https://tomfbush.github.io/posts/wordpress-cant-edit-category-slug/>WordPress can't edit category slug</a>
+<br>
+<a href=https://tomfbush.github.io/posts/how-to-share-youtube-videos-at-a-specific-time/>How To Share YouTube Videos At A Specific Time</a>
+<br>
+<a href=https://tomfbush.github.io/posts/evernote-mobile-web-interface-for-quick-notetaking/>Evernote Mobile web interface for quick notetaking</a>
+<br>
+</div>
+</div>
+</div>
+<script>document.addEventListener('DOMContentLoaded',()=>{hljs.initHighlightingOnLoad()})</script>
+</div>
+</div>
+</main>
+<footer class=pl-scrollbar>
+<div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
+<p class="text-sm text-tertiary-text"> Powered by the <a href=https://github.com/wangchucheng/hugo-eureka class=hover:text-eureka>Eureka</a> theme for <a href=https://gohugo.io class=hover:text-eureka>Hugo</a></p>
+</div></div>
+</footer>
+</body>
+</html>

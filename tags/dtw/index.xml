@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dtw on Tom Bush | Data Science | SEO | Web Analytics</title>
+    <link>/tags/dtw/</link>
+    <description>Recent content in dtw on Tom Bush | Data Science | SEO | Web Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 24 Nov 2021 23:24:06 +0000</lastBuildDate><atom:link href="/tags/dtw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Time Warping</title>
+      <link>/posts/dynamic-time-warping/</link>
+      <pubDate>Wed, 24 Nov 2021 23:24:06 +0000</pubDate>
+      
+      <guid>/posts/dynamic-time-warping/</guid>
+      <description>What is dynamic time warping (DTM)? Dynamic time warping (DTM) is a technique for matching time series &amp;ndash; or more generally sequences &amp;ndash; of different lengths.
+When was dynamic time warping invented? TODO: 1980s, voice recognition</description>
+    </item>
+    
+  </channel>
+</rss>
